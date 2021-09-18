@@ -42,6 +42,11 @@
       <td>18€</td>
       <td>16€</td>
     </tr>
+    <tr>
+      <td class="AjoutFinTab">
+      *équipement fournit
+      </td>
+    <tr/>
   </table>
 
 </body>
