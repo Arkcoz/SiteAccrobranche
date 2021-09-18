@@ -3,5 +3,15 @@ h1{
     text-align: center;
     margin-top: 300px;
     font-family: Fredoka One;
+    color : #1B4332;
+    
+}
+
+body{
+    height: 100%;
+    width: 100%;
+    background: url("source/background.png") ;
+    background-repeat: no-repeat;
+    background-size: cover;
     
 }
