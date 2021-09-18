@@ -19,6 +19,18 @@
     
     <h1>Bienvenue à WoodLand</h1>
     
+    <div class="btn-menu">
+        <a href="reservation.php">
+            <div class="btn-item">
+                Réserver
+            </div>
+        </a>
+        <a href="parcours.php">
+            <div class="btn-item">
+                Nos parcours
+            </div>
+        </a>
+    </div>
     
 </body>
 </html>
