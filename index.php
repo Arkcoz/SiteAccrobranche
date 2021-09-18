@@ -11,15 +11,25 @@
 </head>
 <body>
     <div class="img-background">
-            
+
     </div>
-    <?php 
+    <?php
         include('navigation.php')
     ?>
-    
+
     <h1>Bienvenue à WoodLand</h1>
-    
-    <div class="btn-menu">
+
+    <table>
+      <tr>
+        <td class="btn-item">Réserver</td>
+        <td class="btn-itemVide"></td>
+        <td class="btn-item">Nos parcours</td>
+      </tr>
+    </table>
+
+
+
+    <!-- <div class="btn-menu">
         <a href="reservation.php">
             <div class="btn-item">
                 Réserver
@@ -30,7 +40,7 @@
                 Nos parcours
             </div>
         </a>
-    </div>
-    
+    </div> -->
+
 </body>
 </html>
