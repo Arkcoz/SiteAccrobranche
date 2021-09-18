@@ -9,17 +9,6 @@ h1{
     font-family: Open Sans;
 }
 
-.TeteTab{
-  border: 2px solid #58cece;
-  font-family: Fredoka One;
-  width: 350px;
-  height: 150px;
-  text-align: center;
-  font-size: 35px;
-  background-color: #B7E4C7;
-  font-weight: bold;
-}
-
 table{
   border-collapse: collapse; /* Colle les bordures du tableau*/
   margin: auto;
@@ -35,10 +24,102 @@ td{
   font-family: Open Sans;
 }
 
+                                                      /* STYLE ONGLET NAV_BAR */
+
+#Selected_Info{
+  background-color:#74C69D;
+}
+
+                                                      /* STYLE TABLEAU TARIF */
+
+.TeteTab{
+  border: 2px solid #58cece;
+  font-family: Fredoka One;
+  width: 350px;
+  height: 150px;
+  text-align: center;
+  font-size: 35px;
+  background-color: #B7E4C7;
+  font-weight: bold;
+}
+
+
 .AjoutFinTab{
   color: red;
   border: 0px solid #58cece;
   font-size: 15px;
   text-align: left;
   height: 30px;
+}
+
+
+                                                    /* STYLE TABLEAU HORAIRES */
+
+.HTeteTab{
+  border: 2px solid #58cece;
+  font-family: Fredoka One;
+  width: 200px;
+  height: 80px;
+  text-align: center;
+  font-size: 30px;
+  background-color: #B7E4C7;
+  font-weight: bold;
+}
+
+.HIntTab{
+  border: 2px solid #58cece;
+  width: 200px;
+  height: 80px;
+  text-align: center;
+  font-size: 20px;
+  font-family: Open Sans;
+}
+
+.HAjoutFinTab{
+  color: red;
+  border: 0px solid #58cece;
+  font-size: 15px;
+  text-align: left;
+  height: 30px;
+  width: 100px;
+}
+
+                                                          /* STYLE Info_Acces */
+
+.Info_Acces{
+  background-color: #40916C;
+  display: flex;
+  flex-direction: row;
+  margin-top: 35px;
+  margin-left: 19%;
+  margin-right: 19%;
+}
+
+#Carte{
+  padding: 20px;
+  margin-left: 3.5%;
+}
+
+#Info_Acces_Second{
+
+  background-color: #74C69D;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-left: 80px;
+
+}
+
+#Info_Acces_Second li{
+  font-size: 20px;
+  color: white;
+  padding : 20px;
+  margin-left: 20%;
+}
+
+#Info_Acces_Second ul{
+  margin: 50px;
+}
+
+#Info_Acces_Second h2{
+  font-size: 35px;
 }
