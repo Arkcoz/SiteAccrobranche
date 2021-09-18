@@ -10,12 +10,15 @@
     <title>WoodLand</title>
 </head>
 <body>
+    <div class="img-background">
+            
+    </div>
     <?php 
         include('navigation.php')
     ?>
     
     <h1>Bienvenue à WoodLand</h1>
-
+    
     
 </body>
 </html>
