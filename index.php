@@ -14,7 +14,8 @@
         include('navigation.php')
     ?>
     
-    <h1> Bienvenue à WoodLand </h1>
+    <h1>Bienvenue à WoodLand</h1>
+
     
 </body>
 </html>
