@@ -10,30 +10,35 @@
     <title>WoodLand</title>
 </head>
 <body>
-    <div class="img-background">
+    <div class="index" id="index">
+        <div class="img-background">
 
+        </div>
+        <?php
+            include('navigation.php')
+        ?>
+
+        <h1>Bienvenue à WoodLand</h1>
+
+
+        <div class="btn-menu">
+            <ul>
+                <li class="btn-item">
+                    <a href="reservation.php">
+                        Réserver
+                    </a>
+                </li>
+                <li class="btn-item">
+                    <a href="parcours.php">
+                        Nos parcours
+                    </a>
+                </li>
+            </ul>
+        </div>
     </div>
-    <?php
-        include('navigation.php')
+
+    <?php 
+        include('footer.php')
     ?>
-
-    <h1>Bienvenue à WoodLand</h1>
- 
-
-    <div class="btn-menu">
-        <ul>
-            <li class="btn-item">
-                <a href="reservation.php">
-                    Réserver
-                </a>
-            </li>
-            <li class="btn-item">
-                <a href="parcours.php">
-                    Nos parcours
-                </a>
-            </li>
-        </ul>
-    </div>
-
 </body>
 </html>
