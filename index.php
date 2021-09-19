@@ -18,29 +18,22 @@
     ?>
 
     <h1>Bienvenue à WoodLand</h1>
+ 
 
-    <table>
-      <tr>
-        <td class="btn-item">Réserver</td>
-        <td class="btn-itemVide"></td>
-        <td class="btn-item">Nos parcours</td>
-      </tr>
-    </table>
-
-
-
-    <!-- <div class="btn-menu">
-        <a href="reservation.php">
-            <div class="btn-item">
-                Réserver
-            </div>
-        </a>
-        <a href="parcours.php">
-            <div class="btn-item">
-                Nos parcours
-            </div>
-        </a>
-    </div> -->
+    <div class="btn-menu">
+        <ul>
+            <li class="btn-item">
+                <a href="reservation.php">
+                    Réserver
+                </a>
+            </li>
+            <li class="btn-item">
+                <a href="parcours.php">
+                    Nos parcours
+                </a>
+            </li>
+        </ul>
+    </div>
 
 </body>
 </html>
