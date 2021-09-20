@@ -42,13 +42,13 @@ main {
  
 
 
-li{
+.navbar .navbar-menu a li{
     padding : 1.5rem 5rem 1.5rem 5rem;
     margin-right:auto;
 }
 
 
-li:hover{
+.navbar .navbar-menu a li:hover{
     background-color:#74C69D;
 }
 

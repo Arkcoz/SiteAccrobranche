@@ -1,0 +1,23 @@
+.map_container{
+    margin: 8rem 5rem;
+    display: flex;
+    flex-direction: row;
+}
+
+.map_image{
+    width: 70rem;
+    height: auto;
+    background-color: #40916C;
+    padding: 10px;
+    border-radius: 20px;
+
+}
+
+.map_contenu{
+    margin-left: 20px;
+}
+
+.map_contenu ul li{
+    text-decoration: none;
+    list-style-type: none;
+}

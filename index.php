@@ -56,18 +56,14 @@
         <h2>Nos dernières informations</h2>
         <div class="news_menu">
             <div class="news_container">
-                <div class="news_image">
-                    <img class="news_image" src="source/passe_sanitaire.png" alt="Photo du passe sanitaire">
-                </div>
+                <img class="news_image" src="source/passe_sanitaire.png" alt="Photo du passe sanitaire">
                 <div class="news_contenu">
                     <h3>Pass sanitaire obligatoire</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga ex explicabo iusto nesciunt aliquid placeat ratione inventore! Laudantium beatae vero tempora excepturi atque iusto ducimus officia iure fugiat, amet dicta!</p>
                 </div>
             </div>
             <div class="news_container">
-                <div class="news_image">
-                    <img class="news_image" src="source/detente.jpg" alt="Photo de hamac">
-                </div>
+                <img class="news_image" src="source/detente.jpg" alt="Photo de hamac">
                 <div class="news_contenu">
                     <h3>Un nouveau coin détente... en pleine forêt !</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga ex explicabo iusto nesciunt aliquid placeat ratione inventore! Laudantium beatae vero tempora excepturi atque iusto ducimus officia iure fugiat, amet dicta!</p>
