@@ -47,11 +47,13 @@
             </ul>
         </div>
     </div>
+    
+    <div class="banderol">
+        Rejoignez nous jeunes héros ! Nous vous attendons pour la quête du Saint Graal ! 
+    </div>
 
     <div class="news" id="news">
-        <div class="banderol">
-            Rejoignez nous jeunes héros ! Nous vous attendons pour la quête du Saint Graal ! 
-        </div>
+        
 
         <h2>Nos dernières informations</h2>
         <div class="news_menu">

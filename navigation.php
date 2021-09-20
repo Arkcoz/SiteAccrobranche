@@ -26,7 +26,7 @@
                 <li classe="navbar-item">
                     Contact
                 </li>
-            </a>
+            </a>    
         </ul>
     </nav>
 

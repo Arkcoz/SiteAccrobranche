@@ -17,8 +17,8 @@
                     Mentions légales
                 </li>
             </a>
-            <a href="politique.php" class="footer-link">
-                <li classe="footer-item" id="selected_item">
+            <a href="politique.php" class="footer-link" id="selected_item">
+                <li classe="footer-item">  
                     Politique de confidentialité
                 </li>
             </a>
