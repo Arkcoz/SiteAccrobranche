@@ -6,23 +6,23 @@
 
 
         <ul class="navbar-menu">
-            <a href="parcours.php" class="navbar-link" id="Selected_Parcours">
+            <a href="parcours.php" class="navbar-link" id="selected_item">
                 <li classe="navbar-item">
                     Parcours
                 </li>
             </a>
-            <a href="reservation.php" class="navbar-link" id="Selected_Reserver">
+            <a href="reservation.php" class="navbar-link" id="selected_item">
                 <li classe="navbar-item">
 
                     Réserver
                 </li>
             </a>
-            <a href="info.php" class="navbar-link">
-                <li classe="navbar-item" id="Selected_Info">
+            <a href="info.php" class="navbar-link" id="selected_item">
+                <li classe="navbar-item">
                     Infos-pratiques
                 </li>
             </a>
-            <a href="contact.php" class="navbar-link" id="Selected_Contact">
+            <a href="contact.php" class="navbar-link" id="selected_item">
                 <li classe="navbar-item">
                     Contact
                 </li>

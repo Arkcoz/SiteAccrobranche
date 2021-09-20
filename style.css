@@ -43,7 +43,7 @@ main {
 
 
 li{
-    padding : 2rem 5rem 2rem 5rem;
+    padding : 1.5rem 5rem 1.5rem 5rem;
     margin-right:auto;
 }
 
@@ -58,14 +58,14 @@ li:hover{
 
 .navbar-link{
     text-decoration: none;
-    font-size: 20px;
+    font-size: 25px;
     color:white;
     
 }
 
 
 .logo-image{
-    height: 4.5rem;
+    height: 4rem;
     width: auto;
     display: flex;
     position: fixed;

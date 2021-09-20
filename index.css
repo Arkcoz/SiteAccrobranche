@@ -25,7 +25,7 @@ body{
 
 }
 
-.btn-item a{
+.btn{
   text-decoration: none;
   color: white;
   font-size: 35px;
@@ -41,3 +41,101 @@ body{
   margin-bottom: 0;  
 }
 
+.fleche{
+  width: 3.5rem;
+  height: 2.8rem;
+  margin-left: auto;
+  margin-right: auto;    
+  display: flex; 
+  transition: all 0.3s ease-in-out;
+}
+
+
+.fleche_container{
+  width: 100%;
+  display: flex;
+  position: absolute;
+  bottom :10px;
+}
+
+/*.fleche:hover{
+  filter: invert(100%); 
+} */
+
+.fleche.scroll{
+  transform: rotate(180deg);
+  transition: all 0.3s ease-in-out;
+  /*filter:invert(100%); */
+}
+
+#news{
+  width: 100%;
+
+}
+
+.banderol{
+  background-color: #52B788;
+  width: 100%;
+  text-align: center;
+  vertical-align: middle;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  font-family: Open Sans;
+  font-size: 28px;
+  color: white;
+}
+
+.banderol_text{
+  font-size: 28px;
+  color: white;
+  margin: auto;
+  font-family: Open Sans;
+  vertical-align: middle;
+  margin-top: 0px;
+}
+
+h2{
+  text-align: center;
+  color: black;
+  font-family: Fredoka One;
+  font-size: 48px;
+  margin: 50px;
+}
+
+.news_menu{
+  margin: 0 15rem;
+}
+
+.news_container{
+  height: 30rem;
+  padding: 2rem;
+  background-color: #B7E4C7;
+  margin-bottom: 50px;
+  display: flex;
+  flex-direction:row;
+  border-radius: 20px;
+}
+
+h3{
+  color: black;
+  font-family: Fredoka One;
+  font-size: 40px;
+  margin-bottom: 5px;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+.news_contenu{
+  color: black;
+  font-family: Open Sans;
+  font-size: 25px;
+}
+
+.news_image{
+  height: 20rem;
+  width: auto;
+  border-radius: 20px;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-right: 20px;
+}

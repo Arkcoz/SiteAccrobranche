@@ -6,25 +6,20 @@
 
 
         <ul class="footer-menu">
-            <a href="parcours.php" class="footer-link" id="Selected_Parcours">
+            <a href="parcours.php" class="footer-link" id="selected_item">
                 <li classe="footer-item">
-                    Parcours
+                    FAQ
                 </li>
             </a>
-            <a href="reservation.php" class="footer-link" id="Selected_Reserver">
+            <a href="mention.php" class="footer-link" id="selected_item">
                 <li classe="footer-item">
 
-                    Réserver
+                    Mentions légales
                 </li>
             </a>
-            <a href="info.php" class="footer-link">
-                <li classe="footer-item" id="Selected_Info">
-                    Infos-pratiques
-                </li>
-            </a>
-            <a href="contact.php" class="footer-link" id="Selected_Contact">
-                <li classe="footer-item">
-                    Contact
+            <a href="politique.php" class="footer-link">
+                <li classe="footer-item" id="selected_item">
+                    Politique de confidentialité
                 </li>
             </a>
         </ul>
