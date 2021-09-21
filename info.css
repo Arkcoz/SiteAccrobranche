@@ -1,4 +1,4 @@
-body{
+html, body{
   /* background-color: #F4F4F4; */
   background-image: url(./source/Forrest-And-Mountains-Illustration.svg);
   background-attachment: fixed;
@@ -6,10 +6,9 @@ body{
   background-size: cover;
 
   font-family: 'Source Sans Pro';
-  font-size: 0px;
   width: unset;
   height: unset;
-  background-color: #F4F4F4;
+  background-color: unset;
 }
 
 h1{
@@ -57,12 +56,13 @@ td{
 
 
 .AjoutFinTab{
-  color: red;
+  color: white;
   border: 0px solid #58cece;
   font-size: 15px;
   text-align: left;
   height: 30px;
   background-color: unset;
+  font-weight: bold;
 }
 
 
@@ -89,13 +89,14 @@ td{
 }
 
 .HAjoutFinTab{
-  color: red;
+  color: white;
   border: 0px solid #58cece;
   font-size: 15px;
   text-align: left;
   height: 30px;
   width: 100px;
   background-color: unset;
+  font-weight: bold;
 }
 
                                                           /* STYLE Info_Acces */
@@ -108,26 +109,26 @@ td{
   margin: 20px auto 10rem auto;
   padding : 2rem;
 }
-                                                          
-                                                          
+
+
 .Info_Gauche{
   margin-right: 2rem;
 }
-                                                          
+
 .Info_Droite{
   display: flex;
   background-color: #74C69D;
   width: 100%;
-  padding:2rem;                                                         
+  padding:2rem;
 }
-                                                          
+
 .Info_Droite li{
   font-size: 20px;
   color: white;
   padding : 6%;
   margin-left: 20%;
 }
-                                                          
+
 
 .Info_Droite li{
   font-size: 20px;
@@ -138,4 +139,3 @@ td{
 .Info_Droite h2{
   font-size: 40px;
 }
-
