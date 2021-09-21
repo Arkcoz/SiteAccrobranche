@@ -29,6 +29,7 @@ main {
     background-color: #40916C;
     margin-top: 0;
     width: 100%;
+    z-index: 10;
 }
 
 .navbar-menu{
@@ -79,8 +80,8 @@ main {
     display: flex;
     position: fixed;
     margin-top: 5px;
-    margin-left:15px;
-    z-index:1;
+    margin-left:15px; 
+    z-index:11;
     background:none;
 }
 
@@ -92,7 +93,7 @@ main {
     margin-left: 45px;
     display: flex;
     position: fixed;
-    z-index:2;
+    z-index:12;
     font-family:Fredoka One;
 
 }
