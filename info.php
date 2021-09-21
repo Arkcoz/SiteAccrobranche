@@ -12,7 +12,7 @@
 </head>
 <body>
   <?php
-  include('navigation.php')
+    include('navigation.php')
   ?>
 
                                                                                 <!-- TABLEAU TARIF -->
@@ -83,16 +83,19 @@
       <td class="HAjoutFinTab" colspan="2">
       *ouverts jours fériés
       </td>
-    <tr/>
+    </tr>
   </table>
 
   <h1>ACCÈS</h1>
   <div class="Info_Acces">
-      <iframe id="Carte" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d5804.10322255451!2d4.913172466030299!3d47.436849060609426!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sfr!2sfr!4v1632001239876!5m2!1sfr!2sfr"
-        width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy">
-      </iframe>
+      <div class="Info_Gauche">
+        <iframe id="Carte" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d5804.10322255451!2d4.913172466030299!3d47.436849060609426!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sfr!2sfr!4v1632001239876!5m2!1sfr!2sfr" 
+          width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy">
+        </iframe>
+      </div>
+      
 
-      <div id="Info_Acces_Second">
+      <div class="Info_Droite">
 
         <ul>
           <h2>Information supplémentaire</h2>
@@ -105,5 +108,8 @@
 
   </div>
 
+  <?php
+    include('footer.php')
+  ?>
 </body>
 </html>

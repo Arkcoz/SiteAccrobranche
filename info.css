@@ -88,38 +88,40 @@ td{
 
 .Info_Acces{
   background-color: #40916C;
+  width: 60%;
   display: flex;
   flex-direction: row;
-  margin-top: 35px;
-  margin-left: 19%;
-  margin-right: 19%;
+  margin: 20px auto 10rem auto;
+  padding : 2rem;
 }
-
-#Carte{
-  padding: 20px;
-  margin-left: 1.6%;
+                                                          
+                                                          
+.Info_Gauche{
+  margin-right: 2rem;
 }
-
-#Info_Acces_Second{
-
+                                                          
+.Info_Droite{
+  display: flex;
   background-color: #74C69D;
-  margin-top: 1%;
-  margin-bottom: 1%;
-  margin-left: 0.005%;
-
+  width: 100%;
+  padding:2rem;                                                         
 }
-
-#Info_Acces_Second li{
+                                                          
+.Info_Droite li{
   font-size: 20px;
   color: white;
   padding : 6%;
   margin-left: 20%;
 }
+                                                          
 
-#Info_Acces_Second ul{
-  margin: 10%;
+.Info_Droite li{
+  font-size: 20px;
+  color: white;
 }
 
-#Info_Acces_Second h2{
-  font-size: 250%;
+
+.Info_Droite h2{
+  font-size: 40px;
 }
+
