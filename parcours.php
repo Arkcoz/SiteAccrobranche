@@ -97,7 +97,7 @@
                         <div class="parcours-all">
                             <div class="parcours-gauche">
                                 <div class="parcours-photo">
-                                    <img src="source/Chemin10.png" classe="photo">
+                                    <img src="source/Parcoursenfant1.png" classe="photo">
                                 </div>
                                 <div class="parcours-name">
                                     Parcours Galaad
@@ -106,7 +106,7 @@
                         
                             <div class="parcours-droit">
                                 <div class="parcours-title">
-                                    POUR LES PLUS VAILLANT
+                                    POUR LES PLUS JEUNES
                                 </div>
                                 <div class="parcours-text">
                                     <p>Vous aimez vous dépenser dans votre quête sur qu'à l'épuisement ? Venez vous mettre à l'épreuve sur le parcours du Roi Arthur !</p>
@@ -150,7 +150,7 @@
                         <div class="parcours-all">
                             <div class="parcours-gauche">
                                 <div class="parcours-photo">
-                                    <img src="source/Chemin10.png" classe="photo">
+                                    <img src="source/Parcoursenfant2.png" classe="photo">
                                 </div>
                                 <div class="parcours-name">
                                     Parcours Agravain
@@ -159,7 +159,7 @@
                         
                             <div class="parcours-droit">
                                 <div class="parcours-title">
-                                    POUR LES PLUS VAILLANT
+                                    POUR LES PLUS JEUNES
                                 </div>
                                 <div class="parcours-text">
                                     <p>Vous aimez vous dépenser dans votre quête sur qu'à l'épuisement ? Venez vous mettre à l'épreuve sur le parcours du Roi Arthur !</p>
@@ -203,7 +203,7 @@
                         <div class="parcours-all">
                             <div class="parcours-gauche">
                                 <div class="parcours-photo">
-                                    <img src="source/Chemin10.png" classe="photo">
+                                    <img src="source/Parcoursenfant3.png" classe="photo">
                                 </div>
                                 <div class="parcours-name">
                                     Parcours Bohort
@@ -212,7 +212,7 @@
                         
                             <div class="parcours-droit">
                                 <div class="parcours-title">
-                                    POUR LES PLUS VAILLANT
+                                    POUR LES PLUS JEUNES
                                 </div>
                                 <div class="parcours-text">
                                     <p>Vous aimez vous dépenser dans votre quête sur qu'à l'épuisement ? Venez vous mettre à l'épreuve sur le parcours du Roi Arthur !</p>
@@ -256,7 +256,7 @@
                         <div class="parcours-all">
                             <div class="parcours-gauche">
                                 <div class="parcours-photo">
-                                    <img src="source/Chemin10.png" classe="photo">
+                                    <img src="source/Chemin1.png" classe="photo">
                                 </div>
                                 <div class="parcours-name">
                                     Parcours Mordred
@@ -309,7 +309,7 @@
                         <div class="parcours-all">
                             <div class="parcours-gauche">
                                 <div class="parcours-photo">
-                                    <img src="source/Chemin10.png" classe="photo">
+                                    <img src="source/Chemin2.png" classe="photo">
                                 </div>
                                 <div class="parcours-name">
                                     Parcours Accolon
@@ -362,7 +362,7 @@
                         <div class="parcours-all">
                             <div class="parcours-gauche">
                                 <div class="parcours-photo">
-                                    <img src="source/Chemin10.png" classe="photo">
+                                    <img src="source/Chemin3.png" classe="photo">
                                 </div>
                                 <div class="parcours-name">
                                     Parcours Erec
@@ -415,7 +415,7 @@
                         <div class="parcours-all">
                             <div class="parcours-gauche">
                                 <div class="parcours-photo">
-                                    <img src="source/Chemin10.png" classe="photo">
+                                    <img src="source/Tirolienne1.png" classe="photo">
                                 </div>
                                 <div class="parcours-name">
                                     Parcours Gauvain
@@ -468,7 +468,7 @@
                         <div class="parcours-all">
                             <div class="parcours-gauche">
                                 <div class="parcours-photo">
-                                    <img src="source/Chemin10.png" classe="photo">
+                                    <img src="source/Chemin4.png" classe="photo">
                                 </div>
                                 <div class="parcours-name">
                                     Parcours Yvain
@@ -521,7 +521,7 @@
                         <div class="parcours-all">
                             <div class="parcours-gauche">
                                 <div class="parcours-photo">
-                                    <img src="source/Chemin10.png" classe="photo">
+                                    <img src="source/Chemin5.png" classe="photo">
                                 </div>
                                 <div class="parcours-name">
                                     Parcours Méléagant
@@ -574,7 +574,7 @@
                         <div class="parcours-all">
                             <div class="parcours-gauche">
                                 <div class="parcours-photo">
-                                    <img src="source/Chemin10.png" classe="photo">
+                                    <img src="source/Chemin6.png" classe="photo">
                                 </div>
                                 <div class="parcours-name">
                                     Parcours Lancelot
@@ -627,7 +627,7 @@
                         <div class="parcours-all">
                             <div class="parcours-gauche">
                                 <div class="parcours-photo">
-                                    <img src="source/Chemin10.png" classe="photo">
+                                    <img src="source/Chemin7.png" classe="photo">
                                 </div>
                                 <div class="parcours-name">
                                     Parcours Perceval
@@ -680,7 +680,7 @@
                         <div class="parcours-all">
                             <div class="parcours-gauche">
                                 <div class="parcours-photo">
-                                    <img src="source/Chemin10.png" classe="photo">
+                                    <img src="source/Chemin8.png" classe="photo">
                                 </div>
                                 <div class="parcours-name">
                                     Parcours Arthur
@@ -733,7 +733,7 @@
                         <div class="parcours-all">
                             <div class="parcours-gauche">
                                 <div class="parcours-photo">
-                                    <img src="source/Chemin10.png" classe="photo">
+                                    <img src="source/Tirolienne2.png" classe="photo">
                                 </div>
                                 <div class="parcours-name">
                                     Le Saint Graal
