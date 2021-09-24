@@ -124,10 +124,10 @@
                                     </div>
                                     <div class="parcours-info-rapide rapide2">
                                         <div class="parcours-picto">
-                                            <img src="source/icon_niveau3.png" alt="icone niveau" class="icon">
+                                            <img src="source/icon_niveau1.png" alt="icone niveau" class="icon">
                                         </div>
                                         <div class="parcours-picto-title">
-                                            <strong>Niveau :</strong> Expert
+                                            <strong>Niveau :</strong> Facile
                                         </div>   
                                     </div>
                                     <div class="parcours-info-rapide rapide3">
@@ -135,7 +135,7 @@
                                             <img src="source/icon_taille.png" alt="icone taille" class="icon">
                                         </div>
                                         <div class="parcours-picto-title">
-                                            <strong>Taille :</strong> > 1m30
+                                            <strong>Taille :</strong> > 1m
                                         </div>    
                                     </div>
                                 </div>
@@ -177,10 +177,10 @@
                                     </div>
                                     <div class="parcours-info-rapide rapide2">
                                         <div class="parcours-picto">
-                                            <img src="source/icon_niveau3.png" alt="icone niveau" class="icon">
+                                            <img src="source/icon_niveau1.png" alt="icone niveau" class="icon">
                                         </div>
                                         <div class="parcours-picto-title">
-                                            <strong>Niveau :</strong> Expert
+                                            <strong>Niveau :</strong> Facile
                                         </div>   
                                     </div>
                                     <div class="parcours-info-rapide rapide3">
@@ -188,7 +188,7 @@
                                             <img src="source/icon_taille.png" alt="icone taille" class="icon">
                                         </div>
                                         <div class="parcours-picto-title">
-                                            <strong>Taille :</strong> > 1m30
+                                            <strong>Taille :</strong> > 1m
                                         </div>    
                                     </div>
                                 </div>
@@ -230,10 +230,10 @@
                                     </div>
                                     <div class="parcours-info-rapide rapide2">
                                         <div class="parcours-picto">
-                                            <img src="source/icon_niveau3.png" alt="icone niveau" class="icon">
+                                            <img src="source/icon_niveau1.png" alt="icone niveau" class="icon">
                                         </div>
                                         <div class="parcours-picto-title">
-                                            <strong>Niveau :</strong> Expert
+                                            <strong>Niveau :</strong> Facile
                                         </div>   
                                     </div>
                                     <div class="parcours-info-rapide rapide3">
@@ -241,7 +241,7 @@
                                             <img src="source/icon_taille.png" alt="icone taille" class="icon">
                                         </div>
                                         <div class="parcours-picto-title">
-                                            <strong>Taille :</strong> > 1m30
+                                            <strong>Taille :</strong> > 1m
                                         </div>    
                                     </div>
                                 </div>
@@ -283,10 +283,10 @@
                                     </div>
                                     <div class="parcours-info-rapide rapide2">
                                         <div class="parcours-picto">
-                                            <img src="source/icon_niveau3.png" alt="icone niveau" class="icon">
+                                            <img src="source/icon_niveau2.png" alt="icone niveau" class="icon">
                                         </div>
                                         <div class="parcours-picto-title">
-                                            <strong>Niveau :</strong> Expert
+                                            <strong>Niveau :</strong> Intermédiaire
                                         </div>   
                                     </div>
                                     <div class="parcours-info-rapide rapide3">
@@ -294,7 +294,7 @@
                                             <img src="source/icon_taille.png" alt="icone taille" class="icon">
                                         </div>
                                         <div class="parcours-picto-title">
-                                            <strong>Taille :</strong> > 1m30
+                                            <strong>Taille :</strong> > 1m20
                                         </div>    
                                     </div>
                                 </div>
@@ -336,10 +336,10 @@
                                     </div>
                                     <div class="parcours-info-rapide rapide2">
                                         <div class="parcours-picto">
-                                            <img src="source/icon_niveau3.png" alt="icone niveau" class="icon">
+                                            <img src="source/icon_niveau2.png" alt="icone niveau" class="icon">
                                         </div>
                                         <div class="parcours-picto-title">
-                                            <strong>Niveau :</strong> Expert
+                                            <strong>Niveau :</strong> Intermédiaire
                                         </div>   
                                     </div>
                                     <div class="parcours-info-rapide rapide3">
@@ -347,7 +347,7 @@
                                             <img src="source/icon_taille.png" alt="icone taille" class="icon">
                                         </div>
                                         <div class="parcours-picto-title">
-                                            <strong>Taille :</strong> > 1m30
+                                            <strong>Taille :</strong> > 1m20
                                         </div>    
                                     </div>
                                 </div>
@@ -389,10 +389,10 @@
                                     </div>
                                     <div class="parcours-info-rapide rapide2">
                                         <div class="parcours-picto">
-                                            <img src="source/icon_niveau3.png" alt="icone niveau" class="icon">
+                                            <img src="source/icon_niveau2.png" alt="icone niveau" class="icon">
                                         </div>
                                         <div class="parcours-picto-title">
-                                            <strong>Niveau :</strong> Expert
+                                            <strong>Niveau :</strong> Intermédiaire
                                         </div>   
                                     </div>
                                     <div class="parcours-info-rapide rapide3">
@@ -400,7 +400,7 @@
                                             <img src="source/icon_taille.png" alt="icone taille" class="icon">
                                         </div>
                                         <div class="parcours-picto-title">
-                                            <strong>Taille :</strong> > 1m30
+                                            <strong>Taille :</strong> > 1m20
                                         </div>    
                                     </div>
                                 </div>
@@ -424,7 +424,7 @@
                         
                             <div class="parcours-droit">
                                 <div class="parcours-title">
-                                    POUR LES PLUS VAILLANT
+                                    PARCOURS TIROLIENNE
                                 </div>
                                 <div class="parcours-text">
                                     <p>Vous aimez vous dépenser dans votre quête sur qu'à l'épuisement ? Venez vous mettre à l'épreuve sur le parcours du Roi Arthur !</p>
@@ -442,10 +442,10 @@
                                     </div>
                                     <div class="parcours-info-rapide rapide2">
                                         <div class="parcours-picto">
-                                            <img src="source/icon_niveau3.png" alt="icone niveau" class="icon">
+                                            <img src="source/icon_niveau1.png" alt="icone niveau" class="icon">
                                         </div>
                                         <div class="parcours-picto-title">
-                                            <strong>Niveau :</strong> Expert
+                                            <strong>Niveau :</strong> Facile
                                         </div>   
                                     </div>
                                     <div class="parcours-info-rapide rapide3">
@@ -453,7 +453,7 @@
                                             <img src="source/icon_taille.png" alt="icone taille" class="icon">
                                         </div>
                                         <div class="parcours-picto-title">
-                                            <strong>Taille :</strong> > 1m30
+                                            <strong>Taille :</strong> > 1m20
                                         </div>    
                                     </div>
                                 </div>
@@ -490,15 +490,15 @@
                                             <img src="source/icon_time.svg" alt="icone durée" class="icon">
                                         </div>
                                         <div class="parcours-picto-title">
-                                            <strong>Durée :</strong> 10min
+                                            <strong>Durée :</strong> 15min
                                         </div>
                                     </div>
                                     <div class="parcours-info-rapide rapide2">
                                         <div class="parcours-picto">
-                                            <img src="source/icon_niveau3.png" alt="icone niveau" class="icon">
+                                            <img src="source/icon_niveau2.png" alt="icone niveau" class="icon">
                                         </div>
                                         <div class="parcours-picto-title">
-                                            <strong>Niveau :</strong> Expert
+                                            <strong>Niveau :</strong> Intermédiaire
                                         </div>   
                                     </div>
                                     <div class="parcours-info-rapide rapide3">
@@ -506,7 +506,7 @@
                                             <img src="source/icon_taille.png" alt="icone taille" class="icon">
                                         </div>
                                         <div class="parcours-picto-title">
-                                            <strong>Taille :</strong> > 1m30
+                                            <strong>Taille :</strong> > 1m20
                                         </div>    
                                     </div>
                                 </div>
@@ -543,15 +543,15 @@
                                             <img src="source/icon_time.svg" alt="icone durée" class="icon">
                                         </div>
                                         <div class="parcours-picto-title">
-                                            <strong>Durée :</strong> 10min
+                                            <strong>Durée :</strong> 15min
                                         </div>
                                     </div>
                                     <div class="parcours-info-rapide rapide2">
                                         <div class="parcours-picto">
-                                            <img src="source/icon_niveau3.png" alt="icone niveau" class="icon">
+                                            <img src="source/icon_niveau2.png" alt="icone niveau" class="icon">
                                         </div>
                                         <div class="parcours-picto-title">
-                                            <strong>Niveau :</strong> Expert
+                                            <strong>Niveau :</strong> Intermédiaire
                                         </div>   
                                     </div>
                                     <div class="parcours-info-rapide rapide3">
@@ -559,7 +559,7 @@
                                             <img src="source/icon_taille.png" alt="icone taille" class="icon">
                                         </div>
                                         <div class="parcours-picto-title">
-                                            <strong>Taille :</strong> > 1m30
+                                            <strong>Taille :</strong> > 1m20
                                         </div>    
                                     </div>
                                 </div>
@@ -702,7 +702,7 @@
                                             <img src="source/icon_time.svg" alt="icone durée" class="icon">
                                         </div>
                                         <div class="parcours-picto-title">
-                                            <strong>Durée :</strong> 10min
+                                            <strong>Durée :</strong> 15min
                                         </div>
                                     </div>
                                     <div class="parcours-info-rapide rapide2">
@@ -718,7 +718,7 @@
                                             <img src="source/icon_taille.png" alt="icone taille" class="icon">
                                         </div>
                                         <div class="parcours-picto-title">
-                                            <strong>Taille :</strong> > 1m30
+                                            <strong>Taille :</strong> > 1m40
                                         </div>    
                                     </div>
                                 </div>
@@ -742,7 +742,7 @@
                         
                             <div class="parcours-droit">
                                 <div class="parcours-title">
-                                    POUR LES PLUS VAILLANT
+                                    PARCOURS DE FIN
                                 </div>
                                 <div class="parcours-text">
                                     <p>Vous aimez vous dépenser dans votre quête sur qu'à l'épuisement ? Venez vous mettre à l'épreuve sur le parcours du Roi Arthur !</p>
@@ -760,10 +760,10 @@
                                     </div>
                                     <div class="parcours-info-rapide rapide2">
                                         <div class="parcours-picto">
-                                            <img src="source/icon_niveau3.png" alt="icone niveau" class="icon">
+                                            <img src="source/icon_niveau1.png" alt="icone niveau" class="icon">
                                         </div>
                                         <div class="parcours-picto-title">
-                                            <strong>Niveau :</strong> Expert
+                                            <strong>Niveau :</strong> Facile
                                         </div>   
                                     </div>
                                     <div class="parcours-info-rapide rapide3">
@@ -771,7 +771,7 @@
                                             <img src="source/icon_taille.png" alt="icone taille" class="icon">
                                         </div>
                                         <div class="parcours-picto-title">
-                                            <strong>Taille :</strong> > 1m30
+                                            <strong>Taille :</strong> > 1m20
                                         </div>    
                                     </div>
                                 </div>
