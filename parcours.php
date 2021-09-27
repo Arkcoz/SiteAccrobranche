@@ -47,7 +47,7 @@
                 </a>
                 <a href=#carousel__slide6>  
                     <li>
-                        6. Parcours Erec
+                        6. Parcours Geraint 
                     </li>
                 </a>
                 <a href=#carousel__slide7>  
@@ -109,9 +109,9 @@
                                     POUR LES PLUS JEUNES
                                 </div>
                                 <div class="parcours-text">
-                                    <p>Vous aimez vous dépenser dans votre quête sur qu'à l'épuisement ? Venez vous mettre à l'épreuve sur le parcours du Roi Arthur !</p>
+                                    <p>Fils du chevalier Lancelot, Galaad va vous mettre au défi sur une épreuve d'équilibre et d'agilité.</p>
                                     
-                                    <p>Ce parcours vous offrira des grandes épreuves physiques avec des obstacles compliqués pour le plaisir des plus sportifs !</p>
+                                    <p>Allons-nous découvrir de futur talent et peut-être de futur chevalier de la Table Rond ?</p>
                                 </div>
                                 <div class="parcours-info">
                                     <div class="parcours-info-rapide rapide1">
@@ -162,9 +162,9 @@
                                     POUR LES PLUS JEUNES
                                 </div>
                                 <div class="parcours-text">
-                                    <p>Vous aimez vous dépenser dans votre quête sur qu'à l'épuisement ? Venez vous mettre à l'épreuve sur le parcours du Roi Arthur !</p>
+                                    <p>Agravain, neveu du roi Arthur et chevalier irréprochable, vous défiez sur un parcours de surpassement de soi.</p>
                                     
-                                    <p>Ce parcours vous offrira des grandes épreuves physiques avec des obstacles compliqués pour le plaisir des plus sportifs !</p>
+                                    <p>Te sens-tu capable de relevez le défi d'Agravain ?</p>
                                 </div>
                                 <div class="parcours-info">
                                     <div class="parcours-info-rapide rapide1">
@@ -215,9 +215,9 @@
                                     POUR LES PLUS JEUNES
                                 </div>
                                 <div class="parcours-text">
-                                    <p>Vous aimez vous dépenser dans votre quête sur qu'à l'épuisement ? Venez vous mettre à l'épreuve sur le parcours du Roi Arthur !</p>
+                                    <p>Bohort est l'un des meilleurs chevalier de la table ronde. Courageux et vertueux, il obtient sa gloire dans sa quête du Graal, dont il se révèle en être digne avec Galaad et Perceval.</p>
                                     
-                                    <p>Ce parcours vous offrira des grandes épreuves physiques avec des obstacles compliqués pour le plaisir des plus sportifs !</p>
+                                    <p>Ce parcours vous mettra sur le chemin du mystère. Parviendras-tu à découvrir le Graal ?</p>
                                 </div>
                                 <div class="parcours-info">
                                     <div class="parcours-info-rapide rapide1">
@@ -265,12 +265,12 @@
                         
                             <div class="parcours-droit">
                                 <div class="parcours-title">
-                                    POUR LES PLUS VAILLANT
+                                    POUR LES PLUS TÉMÉRAIRE
                                 </div>
                                 <div class="parcours-text">
-                                    <p>Vous aimez vous dépenser dans votre quête sur qu'à l'épuisement ? Venez vous mettre à l'épreuve sur le parcours du Roi Arthur !</p>
+                                    <p>Fils illégitime du roi Arthur, la robustesse est un des atouts phares de Mordred.</p>
                                     
-                                    <p>Ce parcours vous offrira des grandes épreuves physiques avec des obstacles compliqués pour le plaisir des plus sportifs !</p>
+                                    <p>Le parcours vous fera passer sur des filets et des obstacles atypiques !</p>
                                 </div>
                                 <div class="parcours-info">
                                     <div class="parcours-info-rapide rapide1">
@@ -286,7 +286,7 @@
                                             <img src="source/icon_niveau2.png" alt="icone niveau" class="icon">
                                         </div>
                                         <div class="parcours-picto-title">
-                                            <strong>Niveau :</strong> Intermédiaire
+                                            <strong>Niveau :</strong> Intermé.
                                         </div>   
                                     </div>
                                     <div class="parcours-info-rapide rapide3">
@@ -318,12 +318,12 @@
                         
                             <div class="parcours-droit">
                                 <div class="parcours-title">
-                                    POUR LES PLUS VAILLANT
+                                    POUR LES PLUS TÉMÉRAIRE
                                 </div>
                                 <div class="parcours-text">
-                                    <p>Vous aimez vous dépenser dans votre quête sur qu'à l'épuisement ? Venez vous mettre à l'épreuve sur le parcours du Roi Arthur !</p>
+                                    <p>Amant dévoué à la fée Morgane, Accolon était l'ennemi du Roi Arthur. </p>
                                     
-                                    <p>Ce parcours vous offrira des grandes épreuves physiques avec des obstacles compliqués pour le plaisir des plus sportifs !</p>
+                                    <p>Accolon avez souvent la tête dans les nuages... j'espère que vous n'avez pas le vertiges !</p>
                                 </div>
                                 <div class="parcours-info">
                                     <div class="parcours-info-rapide rapide1">
@@ -339,7 +339,7 @@
                                             <img src="source/icon_niveau2.png" alt="icone niveau" class="icon">
                                         </div>
                                         <div class="parcours-picto-title">
-                                            <strong>Niveau :</strong> Intermédiaire
+                                            <strong>Niveau :</strong> Intermé.
                                         </div>   
                                     </div>
                                     <div class="parcours-info-rapide rapide3">
@@ -365,18 +365,18 @@
                                     <img src="source/Chemin3.png" classe="photo">
                                 </div>
                                 <div class="parcours-name">
-                                    Parcours Erec
+                                    Parcours Geraint 
                                 </div>
                             </div>
                         
                             <div class="parcours-droit">
                                 <div class="parcours-title">
-                                    POUR LES PLUS VAILLANT
+                                    POUR LES PLUS TÉMÉRAIRE
                                 </div>
                                 <div class="parcours-text">
-                                    <p>Vous aimez vous dépenser dans votre quête sur qu'à l'épuisement ? Venez vous mettre à l'épreuve sur le parcours du Roi Arthur !</p>
+                                    <p>Grevaint était un compagnon d'armes du roi Arthur. </p>
                                     
-                                    <p>Ce parcours vous offrira des grandes épreuves physiques avec des obstacles compliqués pour le plaisir des plus sportifs !</p>
+                                    <p>Au fur et à mesure que vous avancerez sur le parcours, et plus les épreuves seront difficiles ! Alors utilisez votre force de façon stratégique !</p>
                                 </div>
                                 <div class="parcours-info">
                                     <div class="parcours-info-rapide rapide1">
@@ -392,7 +392,7 @@
                                             <img src="source/icon_niveau2.png" alt="icone niveau" class="icon">
                                         </div>
                                         <div class="parcours-picto-title">
-                                            <strong>Niveau :</strong> Intermédiaire
+                                            <strong>Niveau :</strong> Intermé.
                                         </div>   
                                     </div>
                                     <div class="parcours-info-rapide rapide3">
@@ -498,7 +498,7 @@
                                             <img src="source/icon_niveau2.png" alt="icone niveau" class="icon">
                                         </div>
                                         <div class="parcours-picto-title">
-                                            <strong>Niveau :</strong> Intermédiaire
+                                            <strong>Niveau :</strong> Intermé.
                                         </div>   
                                     </div>
                                     <div class="parcours-info-rapide rapide3">
@@ -551,7 +551,7 @@
                                             <img src="source/icon_niveau2.png" alt="icone niveau" class="icon">
                                         </div>
                                         <div class="parcours-picto-title">
-                                            <strong>Niveau :</strong> Intermédiaire
+                                            <strong>Niveau :</strong> Intermé.
                                         </div>   
                                     </div>
                                     <div class="parcours-info-rapide rapide3">
@@ -627,7 +627,7 @@
                         <div class="parcours-all">
                             <div class="parcours-gauche">
                                 <div class="parcours-photo">
-                                    <img src="source/Chemin7.png" classe="photo">
+                                    <img src="source/Chemin10.png" classe="photo">
                                 </div>
                                 <div class="parcours-name">
                                     Parcours Perceval
@@ -692,7 +692,7 @@
                                     POUR LES PLUS VAILLANT
                                 </div>
                                 <div class="parcours-text">
-                                    <p>Vous aimez vous dépenser dans votre quête sur qu'à l'épuisement ? Venez vous mettre à l'épreuve sur le parcours du Roi Arthur !</p>
+                                    <p>Vous aimez vous dépenser dans votre quête jusqu'à l'épuisement ? Venez vous mettre à l'épreuve sur le parcours du Roi Arthur !</p>
                                     
                                     <p>Ce parcours vous offrira des grandes épreuves physiques avec des obstacles compliqués pour le plaisir des plus sportifs !</p>
                                 </div>
@@ -745,9 +745,9 @@
                                     PARCOURS DE FIN
                                 </div>
                                 <div class="parcours-text">
-                                    <p>Vous aimez vous dépenser dans votre quête sur qu'à l'épuisement ? Venez vous mettre à l'épreuve sur le parcours du Roi Arthur !</p>
+                                    <p>Vous avez finalement vaincu avec brio les différents obstacles de votre quête !</p>
                                     
-                                    <p>Ce parcours vous offrira des grandes épreuves physiques avec des obstacles compliqués pour le plaisir des plus sportifs !</p>
+                                    <p>Ce parcours vous transportera jusqu'à l'Accueil en survolant le parc entre les hauteurs des arbres.</p>
                                 </div>
                                 <div class="parcours-info">
                                     <div class="parcours-info-rapide rapide1">
