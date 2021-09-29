@@ -109,7 +109,7 @@
                                     POUR LES PLUS JEUNES
                                 </div>
                                 <div class="parcours-text">
-                                    <p>Fils du chevalier Lancelot, Galaad va vous mettre au défi sur une épreuve d'équilibre et d'agilité.</p>
+                                    <p>Fils du chevalier Lancelot, Galaad vous mettre au défi sur une épreuve d'équilibre et d'agilité.</p>
                                     
                                     <p>Allons-nous découvrir de futur talent et peut-être de futur chevalier de la Table Rond ?</p>
                                 </div>
@@ -162,9 +162,9 @@
                                     POUR LES PLUS JEUNES
                                 </div>
                                 <div class="parcours-text">
-                                    <p>Agravain, neveu du roi Arthur et chevalier irréprochable, vous défiez sur un parcours de surpassement de soi.</p>
+                                    <p>Agravain, neveu du roi Arthur et chevalier irréprochable, vous défie sur un parcours de surpassement de soi.</p>
                                     
-                                    <p>Te sens-tu capable de relevez le défi d'Agravain ?</p>
+                                    <p>Vous sentez-vous capable de relevez le défi d'Agravain ?</p>
                                 </div>
                                 <div class="parcours-info">
                                     <div class="parcours-info-rapide rapide1">
@@ -215,9 +215,9 @@
                                     POUR LES PLUS JEUNES
                                 </div>
                                 <div class="parcours-text">
-                                    <p>Bohort est l'un des meilleurs chevalier de la table ronde. Courageux et vertueux, il obtient sa gloire dans sa quête du Graal, dont il se révèle en être digne avec Galaad et Perceval.</p>
+                                    <p>Bohort est l'un des meilleurs chevalier de la table ronde. Courageux et vertueux, il obtient sa gloire dans sa quête du Graal.</p>
                                     
-                                    <p>Ce parcours vous mettra sur le chemin du mystère. Parviendras-tu à découvrir le Graal ?</p>
+                                    <p>Ce parcours vous mettra sur le chemin du mystère. Parviendrez-vous à découvrir le Graal ?</p>
                                 </div>
                                 <div class="parcours-info">
                                     <div class="parcours-info-rapide rapide1">
@@ -323,7 +323,7 @@
                                 <div class="parcours-text">
                                     <p>Amant dévoué à la fée Morgane, Accolon était l'ennemi du Roi Arthur. </p>
                                     
-                                    <p>Accolon avez souvent la tête dans les nuages... j'espère que vous n'avez pas le vertiges !</p>
+                                    <p>Accolon avait souvent la tête dans les nuages... j'espère que vous n'avez pas le vertiges !</p>
                                 </div>
                                 <div class="parcours-info">
                                     <div class="parcours-info-rapide rapide1">
@@ -427,9 +427,9 @@
                                     PARCOURS TIROLIENNE
                                 </div>
                                 <div class="parcours-text">
-                                    <p>Vous aimez vous dépenser dans votre quête sur qu'à l'épuisement ? Venez vous mettre à l'épreuve sur le parcours du Roi Arthur !</p>
+                                    <p>Gauvain est le neveu du roi Arthur et demi-frère de Mordred, mais surtout chevalier de la table ronde. </p>
                                     
-                                    <p>Ce parcours vous offrira des grandes épreuves physiques avec des obstacles compliqués pour le plaisir des plus sportifs !</p>
+                                    <p>Si vous voulez voyager entrer les arbres et avoir une vue élevé du parc, c'est le parcours idéal !</p>
                                 </div>
                                 <div class="parcours-info">
                                     <div class="parcours-info-rapide rapide1">
@@ -477,12 +477,12 @@
                         
                             <div class="parcours-droit">
                                 <div class="parcours-title">
-                                    POUR LES PLUS VAILLANT
+                                    POUR LES PLUS BRAVE
                                 </div>
                                 <div class="parcours-text">
-                                    <p>Vous aimez vous dépenser dans votre quête sur qu'à l'épuisement ? Venez vous mettre à l'épreuve sur le parcours du Roi Arthur !</p>
+                                    <p>Yvain est un valeureux chevalier qui n'a pas hésite à rejoindre Arthur dans sa quête au Graal.</p>
                                     
-                                    <p>Ce parcours vous offrira des grandes épreuves physiques avec des obstacles compliqués pour le plaisir des plus sportifs !</p>
+                                    <p>Plusieurs obstacles vous demanderont l'utilisation de votre force pour les surpasser.</p>
                                 </div>
                                 <div class="parcours-info">
                                     <div class="parcours-info-rapide rapide1">
@@ -530,12 +530,12 @@
                         
                             <div class="parcours-droit">
                                 <div class="parcours-title">
-                                    POUR LES PLUS VAILLANT
+                                    POUR LES PLUS BRAVE
                                 </div>
                                 <div class="parcours-text">
-                                    <p>Vous aimez vous dépenser dans votre quête sur qu'à l'épuisement ? Venez vous mettre à l'épreuve sur le parcours du Roi Arthur !</p>
+                                    <p>Ennemi de Lancelot, Méléagant est un chevalier de la table ronde énigmatique de la légende Arthurienne.</p>
                                     
-                                    <p>Ce parcours vous offrira des grandes épreuves physiques avec des obstacles compliqués pour le plaisir des plus sportifs !</p>
+                                    <p>Pendant le parcours, Méléagant vous lancera une énigme, à vous de jouer !</p>
                                 </div>
                                 <div class="parcours-info">
                                     <div class="parcours-info-rapide rapide1">
@@ -586,9 +586,9 @@
                                     POUR LES PLUS VAILLANT
                                 </div>
                                 <div class="parcours-text">
-                                    <p>Vous aimez vous dépenser dans votre quête sur qu'à l'épuisement ? Venez vous mettre à l'épreuve sur le parcours du Roi Arthur !</p>
+                                    <p>Lancelot est un des principal chevalier de la table ronde mais surtout l'assassin du Roi Arthur !</p>
                                     
-                                    <p>Ce parcours vous offrira des grandes épreuves physiques avec des obstacles compliqués pour le plaisir des plus sportifs !</p>
+                                    <p>Le parcours que vous devrez traverser ne va être clément avec vous...</p>
                                 </div>
                                 <div class="parcours-info">
                                     <div class="parcours-info-rapide rapide1">
@@ -639,9 +639,9 @@
                                     POUR LES PLUS VAILLANT
                                 </div>
                                 <div class="parcours-text">
-                                    <p>Vous aimez vous dépenser dans votre quête sur qu'à l'épuisement ? Venez vous mettre à l'épreuve sur le parcours du Roi Arthur !</p>
+                                    <p>Chevalier de la table ronde courageux et d'âme noble, Perceval est aussi très naïf et distrait.</p>
                                     
-                                    <p>Ce parcours vous offrira des grandes épreuves physiques avec des obstacles compliqués pour le plaisir des plus sportifs !</p>
+                                    <p>En espérant que sa naïveté n'est pas influencé sur la difficulté du parcours...</p>
                                 </div>
                                 <div class="parcours-info">
                                     <div class="parcours-info-rapide rapide1">
