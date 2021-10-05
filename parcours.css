@@ -1,7 +1,7 @@
 .map_container{
-    margin: 8rem 5rem;
+    width: 100%;
     display: flex;
-    flex-direction: row;
+    margin-top: 8rem  ;
 }
 
 .map_image{
@@ -10,17 +10,161 @@
     background-color: #40916C;
     padding: 10px;
     border-radius: 20px;
+    margin: auto;
 
 }
 
 .map_contenu{
-    margin-left: 20px;
+    display:  flex;
+    flex-direction: column;
+    width: 100%;
 }
 
-.map_contenu ul li{
-    text-decoration: none;
-    list-style-type: none;
+.map_contenu .map_contenu_title{
+  text-align: center;
+  font-size: 30px;
+  margin: auto;
 }
+
+.map_contenu .map_contenu_lien{
+  display: flex;
+  flex-direction:row;
+  margin: 5px auto 5rem auto;
+}
+
+.map_contenu_lien a{
+  text-decoration: none;
+  color: white;
+  padding : 0.5rem 1rem 0.5rem 1rem;
+  border-radius: 20px;
+  margin: 2px;
+}
+
+.map_contenu_disposition{
+  display: flex;
+  flex-direction: column;
+}
+
+#map_1{
+  background-color: #45E4EA;
+  color: black;
+}
+
+#map_1:hover{
+  background-color: #174c4e;
+  color: white;
+  transition: all 0.2s ease-in-out;
+}
+
+#map_2{
+  background-color: #8FD14F;
+  color: black;
+}
+
+#map_2:hover{
+  background-color: #405e23;
+  color: white;
+  transition: all 0.2s ease-in-out;
+}
+
+#map_3{
+  background-color: #FEF445;
+  color: black;
+}
+
+#map_3:hover{
+  background-color: #706c1d;
+  color: white;
+  transition: all 0.2s ease-in-out;
+}
+
+#map_4{
+  background-color: #FAC710;
+  color: black;
+}
+
+#map_4:hover{
+  background-color: #927408;
+  color: white;
+  transition: all 0.2s ease-in-out;
+}
+
+#map_5{
+  background-color: #FA9710;
+  color: black;
+}
+
+#map_5:hover{
+  padding: 2rem;
+  transition: all 0.2s ease-in-out;
+}
+
+#map_6{
+  background-color: #12CDD4;
+  color: black;
+}
+
+#map_6:hover{
+  padding: 2rem;
+  transition: all 0.2s ease-in-out;
+}
+
+#map_7{
+  background-color: #DB6F9E;
+}
+
+#map_7:hover{
+  background-color: #DB6F9E;
+}
+
+#map_8{
+  background-color: #598A30;
+}
+
+#map_8:hover{
+  background-color: #598A30;
+}
+
+#map_9{
+  background-color: #414BB2;
+}
+
+#map_9:hover{
+  background-color: #414BB2;
+}
+
+#map_10{
+  background-color: #C16124;
+}
+
+#map_10:hover{
+  background-color: #C16124;
+}
+
+#map_11{
+  background-color: #9F2F1B;
+}
+
+#map_11:hover{
+  background-color: #9F2F1B;
+}
+
+#map_12{
+  background-color: #1A1A1A;
+}
+
+#map_12:hover{
+  background-color: #1A1A1A;
+}
+
+#map_13{
+  background-color: #A87455;
+}
+
+#map_13:hover{
+  background-color: #A87455;
+}
+
 
 @keyframes tonext {
     75% {

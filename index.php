@@ -29,22 +29,12 @@
 
 
         <div class="btn-menu">
-            <ul>
-                <a href="reservation.php">
-                    <li class="btn-item">
-                        <div class="btn">
-                            Réserver
-                        </div>
-                    </li>
-                </a>
-                <a href="parcours.php">
-                    <li class="btn-item">
-                        <div class="btn">
-                            Nos parcours
-                        </div>
-                    </li>
-                </a>
-            </ul>
+            <a href="reservation.php" id="btn">
+                Réserver
+            </a>
+            <a href="parcours.php" id="btn">
+                Nos parcours
+            </a>  
         </div>
     </div>
     

@@ -17,76 +17,69 @@
 
     <div class="map_container">
         <img class="map_image" src="source/plan_parcours.jpg" alt="Photo du passe sanitaire">
-        <div class="map_contenu">
-            <h3>Liste des parcours</h3>
-            <ul>
-                <a href=#carousel__slide1>
-                    <li>
-                        1. Parcours Galaad
-                    </li>
-                </a> 
-                <a href=#carousel__slide2>   
-                    <li>
-                        2. Parcours Agravain
-                    </li>
-                </a>
-                <a href=#carousel__slide3>  
-                    <li>
-                        3. Parcours Bohort
-                    </li>
-                </a>    
-                <a href=#carousel__slide4>  
-                    <li>
-                        4. Parcours Mordred
-                    </li>
-                </a>
-                <a href=#carousel__slide5>  
-                    <li>
-                        5. Parcours Accolon
-                    </li>
-                </a>
-                <a href=#carousel__slide6>  
-                    <li>
-                        6. Parcours Geraint 
-                    </li>
-                </a>
-                <a href=#carousel__slide7>  
-                    <li>
-                        7. Parcours Gauvain
-                    </li>
-                </a>
-                <a href=#carousel__slide8>  
-                    <li>
-                        8. Parcours Yvain
-                    </li>
-                </a>
-                <a href=#carousel__slide9>  
-                    <li>
-                        9. Parcours Méléagant
-                    </li>
-                </a>
-                <a href=#carousel__slide10>  
-                    <li>
-                        10. Parcours Lancelot
-                    </li>
-                </a>
-                <a href=#carousel__slide11>  
-                    <li>
-                        11. Parcours Perceval
-                    </li>
-                </a>
-                <a href=#carousel__slide12>  
-                    <li>
-                        12. Parcours Arthur
-                    </li>
-                </a>
-                <a href=#carousel__slide13>  
-                    <li>
-                        13. Le Saint Graal
-                    </li>
-                </a>
+    </div>
 
-            </ul>
+    <div class="map_contenu">
+            <div class="map_contenu_title">
+                <h3>Liste des parcours</h3>
+            </div>
+            <div class="map_contenu_lien">
+                <div class="map_contenu_disposition">
+                    <a href=#carousel__slide1 id="map_1">
+                            1. Parcours Galaad
+                    </a> 
+                    <a href=#carousel__slide2 id="map_2">   
+                            2. Parcours Agravain
+                    </a>
+                </div>
+                <div class="map_contenu_disposition">
+                    <a href=#carousel__slide3 id="map_3">  
+                            3. Parcours Bohort
+                    </a>    
+                    <a href=#carousel__slide4 id="map_4">  
+                            4. Parcours Mordred
+                    </a>
+                </div>
+                <div class="map_contenu_disposition">
+                    <a href=#carousel__slide5 id="map_5">  
+                            5. Parcours Accolon
+                    </a>
+                    <a href=#carousel__slide6 id="map_6">  
+                            6. Parcours Geraint
+                    </a>
+                </div>
+                
+                <div class="map_contenu_disposition">
+                    <a href=#carousel__slide7 id="map_7">  
+                            7. Parcours Gauvain
+                    </a>
+                    <a href=#carousel__slide8 id="map_8">  
+                            8. Parcours Yvain
+                    </a>
+                </div>
+                <div class="map_contenu_disposition">
+                    <a href=#carousel__slide9 id="map_9">  
+                            9. Parcours Méléagant
+                    </a>
+                    <a href=#carousel__slide10 id="map_10">     
+                            10. Parcours Lancelot
+                    </a>
+                </div>
+                <div class="map_contenu_disposition">
+                    <a href=#carousel__slide11 id="map_11">   
+                            11. Parcours Perceval
+                    </a>
+                    <a href=#carousel__slide12 id="map_12">      
+                            12. Parcours Arthur  
+                    </a>
+                </div>
+                <div class="map_contenu_disposition">
+                    <a href=#carousel__slide13 id="map_13">      
+                            13. Le Saint Graal
+                    </a>
+                </div>
+                
+            </div> 
         </div>
     </div>
     <div class="section-parcours" id="section-parcours">

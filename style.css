@@ -56,10 +56,12 @@ main {
 
 .navbar .navbar-menu a li:hover{
     background-color:#74C69D;
+    transition: all 0.3s ease-in-out;  
 }
 
 .footer .footer-menu a li:hover{
     background-color:#74C69D;
+    transition: all 0.3s ease-in-out;
 }
 
 .navbar-main-title{
