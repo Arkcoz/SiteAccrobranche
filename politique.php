@@ -16,100 +16,40 @@
   ?>
 
   <div class="principale">
-    <h2 class="titre">Utilisation des données personnelles collectées</h2>
-    <p>De manière générale, vous n’êtes pas tenu de nous
-      communiquer vos données personnelles lorsque vous visitez notre site Internet. Nous ne collectons pas de données
-      permettant de vous identifier indirectement (adresse IP…) et ne réalisons pas
-      de suivi et historicisation de connexion.
+    <h2 class="titre">Politique de Confidentialité</h2><br><br>
+    <p>Cette politique s'applique au site : Woodland.fr </p><br>
+    <p>Date de dernière mise à jour : 06/10/2021</p><br>
+    <p>Le respect de votre vie privé est de la plus haute importance pour notre équipe.</p>
+    <p>La présente politique de confidentialité a pour but de vous exposer :
+      La manière dont sont collectés et traités vos renseignement personnels. Doivent être considérés comme renseignements personnels susceptibles de vous identifier. Il s'agit notamment du Nom, Prénom, l'adresse mail, numéro de téléphone, sujet du message, message envoyé.
+      Quels sont vos droits concernant ces renseignements.
+      Qui est responsable du traitement des renseignements personnels collectés et traités.
+      A qui ces renseignements sont transmis.
     </p>
+  </div>
 
-    <p>Toutefois, vous
-      pouvez choisir de communiquer des données personnelles
-      sur le domaine www.accrobranche.fr, au sein de la page
-      « Contact », via le formulaire.
-    </p>
-
-    <p>Ces données personnelles collectées sur le site www.WoodLand.fr
-      sont nécessaires et obligatoires pour la gestion des demandes de contacts
-      réalisés en ligne. La base légale du traitement de
-      données personnelles au sens du RGPD est alors le consentement que vous
-      reconnaissez donner expressément pour réaliser le traitement de données
-      nécessaire au contact.
+  <div class="principale2">
+    <h2 class="titre">Collecte et Traitement de Renseignements Personnels</h2>
+    <p>
+      Les données personnels récupérer sont : Le nom, le prénom, l'adresse mail et le numéro de téléphone.<br>
+      Ces données peuvent être récupérées lors de la réservation d'une séance d'accrobranche, lorsque vous appuyé sur le bouton "Réservé" du formulaire un fois les informations rentrée.<br>
+      Cependant ces information peuvent être récupéré lors d'une demande de contact avec notre équipe dans la page contact. Lors de l'appuie sur le bouton "envoyer" les informations entrée dans le formulaire sont stockées comme le nom, prénom, adresse mail, sujet et le message.<br>
+      Les données personnels sont gardé pour un temps de 3 ans depuis le dernier envoie de formulaire.<br>
+      Les données du formulaire de réservation sont traité uniquement par l'équipe du site Woodland.fr dans le but de l'organisation, de la gestion et de la promotion de notre activité. Les données du formulaire de contact sont traité uniquement par l'équipe de Woodland dans le but de réponde au plus vite à votre demande.<br>
+      Vos données ne seront utilisé pour aucun profilage ou prise de décision automatisée.<br>
+      Vous pouvez nous demandé de retirer vos données personnels de notre base de données a tout moment.<br>
+      Cependant nous ne pourront pas réservé votre créneau d'accrobranche ni répondre à vos questions.
+      <br><br>
+      Si vous le souhaité vous pouvez nous demander vos données personnels collectées contre un versement de 1€.
+      <br><br>
+      Responsable du traitement des renseignements personnel : Mr X
     </p>
   </div>
 
   <div class="souspartie">
-    <h3>Formulaires de contact</h3>
-    <p>Vos données personnelles seront conservées
-      différemment selon les profils utilisateurs du site. Les données personnelles
-      vous concernant pourront être conservées ou archivées, conformément aux
-      dispositions légales en vigueur. Les données personnelles sont : nom, adresse
-      de messagerie électronique et, éventuellement, numéro de téléphone.
-    </p>
-  </div>
-
-  <div class="souspartie">
-    <h3>Contenu embarqué depuis d’autres sites</h3>
-    <p>Les articles de ce site peuvent inclure des contenus
-      intégrés (par exemple des vidéos, images, articles…). Le contenu intégré depuis
-      d’autres sites se comporte de la même manière que si le visiteur se rendait sur
-      cet autre site.
-    </p>
-
-    <p>Ces sites web pourraient collecter des données sur
-      vous, utiliser des cookies, embarquer des outils de suivis tiers, suivre vos
-      interactions avec ces contenus embarqués si vous disposez d’un compte connecté
-      sur leur site web.
-    </p>
-  </div>
-  <div class="principale">
-    <h2 class="titre">Utilisation et transmission de vos données personnelles</h2>
-  </div>
-
-  <div class="souspartie">
-    <h3>Durées de stockage de vos données</h3>
-    <p>Vos données à caractère personnel ne seront pas
-      conservées au-delà de la durée strictement nécessaire à la gestion de notre
-      relation avec vous. Elles
-      seront effacées, en tout état de cause, au maximum 6 (six) mois après la fin de
-      cette relation.
-    </p>
-
-    <p>Toutefois, les données permettant d’établir la preuve
-      d’un droit, d’un lien ou d’un contrat, devant être conservées au titre du
-      respect d’une obligation légale, le seront pendant la durée prévue par la loi
-      en vigueur.&nbsp;
-    </p>
-  </div>
-
-  <div class="souspartie">
-    <h3>Les droits que vous avez sur vos données</h3>
-    <p>Si vous avez contacté « WoodLand »
-      par le formulaire de contact ou la réservation présent sur le site, vous pouvez demander à
-      recevoir un fichier contenant toutes les données personnelles que nous
-      possédons à votre sujet, incluant celles que vous nous avez fournies. Vous
-      pouvez également demander la suppression des données personnelles vous concernant.
-      Cela ne prend pas en compte les données stockées à des fins administratives,
-      légales ou pour des raisons de sécurité.
-    </p>
-
-    <p>Conformément à la loi n° 78-17 du 6 janvier 1978
-      relative à l’informatique, aux fichiers et aux libertés, ainsi que de RGPD,
-      vous disposez du droit d’accéder à vos données (article 15 du RGPD) pour en
-      obtenir la communication et le cas échéant en obtenir, la rectification ou
-      l’effacement (articles 16 et 17 du RGPD).
-    </p>
-
-    <p>Il est rappelé que toute personne peut, pour des
-      motifs légitimes, demander la limitation au traitement des données la
-      concernant (article 18 du RGPD) ou s’opposer audit traitement (articles 21 et
-      22 du RGPD).
-    </p>
-
     <p>Pour toute demande relative à vos données personnelles, nous vous
       invitons à nous contacter à l’adresse suivante: <a href="mailto:mailhelp@helpAccrobranche.fr" class="lien">WoodLand@help.fr</a>
     </p>
-
   </div>
   <?php
   include('footer.php')
