@@ -5,7 +5,7 @@
 }
 
 .map_image{
-    width: 70rem;
+    width: 60rem;
     height: auto;
     background-color: #40916C;
     padding: 10px;
@@ -17,19 +17,27 @@
 .map_contenu{
     display:  flex;
     flex-direction: column;
-    width: 100%;
+    width: 73%;
+    padding-bottom: 10px;
+    background-color: #52B788;
+    margin: 2rem 13.5%;
+
 }
 
 .map_contenu .map_contenu_title{
+  width: 100%;
   text-align: center;
   font-size: 30px;
   margin: auto;
+  background-color:#40916C;
+  padding: 10px 0 ;
 }
 
 .map_contenu .map_contenu_lien{
   display: flex;
   flex-direction:row;
-  margin: 5px auto 5rem auto;
+  margin: 5px auto;
+  padding: 10px 0 5px 0 ;
 }
 
 .map_contenu_lien a{
@@ -419,6 +427,7 @@
   
 .section-parcours{
   margin-bottom: 50px ;
+  margin-top: 50px;
 }
 
 .parcours-all{

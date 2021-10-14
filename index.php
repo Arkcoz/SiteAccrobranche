@@ -26,16 +26,17 @@
         ?>
 
         <h1>Bienvenue à WoodLand</h1>
-
-
+     
         <div class="btn-menu">
-            <a href="reservation.php" id="btn">
-                Réserver
-            </a>
-            <a href="parcours.php" id="btn">
-                Nos parcours
-            </a>  
+            <div class="btnDiv">
+                <a href ="reservation.php" style="--clr : #5ad6a2;--i:0;" class= "moveBtn"> <span> Réserver </span> </a>
+            </div>
+            <div class="btnDiv">
+                <a href ="parcours.php" style="--clr : #5ad6a2;--i:0;" class= "moveBtn"> <span> Nos parcours </span> </a>
+            </div> 
         </div>
+        
+        
     </div>
     
     <div class="banderol">
@@ -52,6 +53,9 @@
                 <div class="news_contenu">
                     <h3>Pass sanitaire obligatoire</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga ex explicabo iusto nesciunt aliquid placeat ratione inventore! Laudantium beatae vero tempora excepturi atque iusto ducimus officia iure fugiat, amet dicta!</p>
+                    <div class="voir_plus">
+                        <a href ="#" class= "voirBtn"> Voir plus </a>
+                    </div>
                 </div>
             </div>
             <div class="news_container">
@@ -59,6 +63,9 @@
                 <div class="news_contenu">
                     <h3>Un nouveau coin détente... en pleine forêt !</h3>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga ex explicabo iusto nesciunt aliquid placeat ratione inventore! Laudantium beatae vero tempora excepturi atque iusto ducimus officia iure fugiat, amet dicta!</p>
+                    <div class="voir_plus">
+                        <a href ="#" class= "voirBtn"> Voir plus </a>
+                    </div>
                 </div>
             </div>
         </div>
