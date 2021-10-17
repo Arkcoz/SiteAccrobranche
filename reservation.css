@@ -33,3 +33,20 @@ h1{
   font-size: 48px;
   width: 44%;
 }
+
+.fond_div{
+  background-color: white;
+  padding-left: 1.3%;
+  padding-right: 1.3%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.fond_div h3{
+  font-size: 80px;
+  text-align: center;
+}
+
+.fond_div p{
+  font-size: 35px;
+}

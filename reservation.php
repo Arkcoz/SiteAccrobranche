@@ -20,6 +20,11 @@
       <h2>Nous avons hâte de vous retrouver chez nous</h2>
       <div id="droite"/></div>
     </div>
+    <div class="fond_div">
+      <h3>Sélectionnez votre créneau</h3>
+      <iframe src="http://winky.fr/winky_widget_calendar/?wid=0" style="width: 100%; height: 100%; border: none;"></iframe>
+      <p>Horaires disponible</p>
+    </div>
 
 </body>
 </html>
