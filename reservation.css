@@ -1,0 +1,35 @@
+h1{
+    font-size: 80px;
+    text-align: center;
+    margin-top: 150px;
+    font-family: Open Sans;
+}
+
+#soustitre #gauche{
+  display: inline-block;
+  float: left;
+  background-color: Black;
+  width: 3%;
+  height: 10px;
+  margin-left: 25%;
+  margin-top: 1.2%;
+  border-radius: 50px;
+}
+
+#soustitre #droite{
+  display: inline-block;
+  float: right;
+  background-color: Black;
+  margin-right: 25%;
+  margin-top: 1.2%;
+  width: 3%;
+  height: 10px;
+  border-radius: 50px;
+}
+
+#soustitre h2{
+  display: inline-block;
+  text-align: center;
+  font-size: 48px;
+  width: 44%;
+}
