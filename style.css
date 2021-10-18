@@ -10,7 +10,6 @@ html, body {
   width : 100%;
   height:100vh;
   background-color: #F4F4F4;
-
 }
 
 main {
@@ -41,8 +40,6 @@ main {
     margin-right:0;
     float: right;
 }
-
-
 
 .navbar .navbar-menu a li{
     padding : 1.5rem 5rem;
@@ -75,7 +72,6 @@ main {
 
 }
 
-
 .logo-image{
     height: 4rem;
     width: auto;
@@ -103,7 +99,73 @@ main {
 .navbar-all{
     display: flex;
 }
+/*
+Description des pages
+ */
+.containerDescriptionPage{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+}
 
+.containerDescriptionPage .descriptionPage{
+    text-align: justify;
+    margin: 10px;
+}
+
+/*
+Formulaires
+ */
+input, select, textarea{
+    width: 100%;
+    background-color: #D8F3DC;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+/*Formulaire général*/
+form{
+    display: flex;
+    flex-direction: column;
+    border-radius: 10px;
+    width: 50%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+form .formTitle{
+    text-align: center;
+}
+
+form .rowInput{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    flex: 0 0 100%;
+    gap: 10px;
+}
+
+form .rowInput div{
+    flex: 1;
+}
+
+/*Formulaire de contact*/
+#bottomForm{
+    justify-content: space-between;
+}
+
+#bottomForm div{
+    flex:  1;
+}
 
 .footer {
     position: absolute;
