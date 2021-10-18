@@ -18,6 +18,12 @@ main {
   text-align: justify;
 }
 
+li,ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
 #index{
     width: 100%;
     height: 100%;
@@ -165,6 +171,23 @@ form .rowInput div{
 
 #bottomForm div{
     flex:  1;
+}
+
+/*Formulaire de réservation*/
+/*Horaires*/
+.gridHoraires
+{
+    display: grid;
+    justify-content: center;
+    margin: 10px;
+    grid-gap: 0.5rem;
+    grid-template-columns: repeat(5, auto);
+}
+
+.gridHoraires .horaire{
+    font-size: 1.3rem;
+    font-weight: bold;
+    background-color: rgba(230, 230, 230, 0.8);
 }
 
 .footer {
