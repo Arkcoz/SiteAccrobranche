@@ -164,6 +164,18 @@ form .rowInput div{
     flex: 1;
 }
 
+/*Style général des boutons de formuaires*/
+form button{
+    background-color: #1B4332;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 10px;
+}
+
 /*Formulaire de contact*/
 #bottomForm{
     justify-content: space-between;
