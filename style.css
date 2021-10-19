@@ -123,6 +123,15 @@ Description des pages
     margin: 10px;
 }
 
+.containerDescriptionPage h2::before,.containerDescriptionPage h2::after{
+    display: inline-block;
+    content: "";
+    border-top: .3rem solid #40916C;
+    width: 4rem;
+    margin: 0 1rem;
+    vertical-align: middle;
+}
+
 /*
 Formulaires
  */
