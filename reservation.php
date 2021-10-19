@@ -118,8 +118,8 @@
 
             <div style="overflow:auto;">
                 <div style="float:right;">
-                    <button type="button" id="prevBtn" onclick="nextPrev(-1)">Etape précédente</button>
-                    <button type="button" id="nextBtn" onclick="nextPrev(1)">Etape suivante</button>
+                    <button type="button" id="prevBtn" onclick="nextPrev(-1)" style="margin: 10px;">Etape précédente</button>
+                    <button type="button" id="nextBtn" onclick="nextPrev(1)" style="margin: 10px;">Etape suivante</button>
                 </div>
             </div>
 
