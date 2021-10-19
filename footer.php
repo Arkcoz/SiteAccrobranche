@@ -6,7 +6,7 @@
 
 
         <ul class="footer-menu">
-            <a href="parcours.php" class="footer-link" id="selected_item">
+            <a href="faq.php" class="footer-link" id="selected_item">
                 <li classe="footer-item">
                     FAQ
                 </li>
