@@ -42,17 +42,19 @@
     <div class="banderol">
         Rejoignez nous jeunes héros ! Nous vous attendons pour la quête du Saint Graal ! 
     </div>
-
     <div class="news" id="news">
-        
-
         <h2>Nos dernières informations</h2>
         <div class="news_menu">
             <div class="news_container">
                 <img class="news_image" src="source/passe_sanitaire.png" alt="Photo du passe sanitaire">
                 <div class="news_contenu">
                     <h3>Pass sanitaire obligatoire</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga ex explicabo iusto nesciunt aliquid placeat ratione inventore! Laudantium beatae vero tempora excepturi atque iusto ducimus officia iure fugiat, amet dicta!</p>
+                    <p style="text-align: justify">
+                        Au vu du décret du gouvernement paru le 20/07/2021 et s’appliquant à notre activité,
+                        nous sommes à ce jour dans l’obligation de contrôler le Pass sanitaire pour les plus de 18 ans qui payent une entrée pour eux même.
+                        Ce contrôle consiste à vérifier votre QR code soit sur l’application Tousanticovid,
+                        soit sur un support imprimé et votre identité (toutes pièces d’identités acceptées ou bien votre nom sur votre réservation est suffisant).
+                    </p>
                     <div class="voir_plus">
                         <a href ="#" class= "voirBtn"> Voir plus </a>
                     </div>
@@ -62,7 +64,10 @@
                 <img class="news_image" src="source/detente.jpg" alt="Photo de hamac">
                 <div class="news_contenu">
                     <h3>Un nouveau coin détente... en pleine forêt !</h3>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga ex explicabo iusto nesciunt aliquid placeat ratione inventore! Laudantium beatae vero tempora excepturi atque iusto ducimus officia iure fugiat, amet dicta!</p>
+                    <p>
+                        Venez vous détendre entre 2 parcours, dans un merveilleux espace de détente. Nous vous rappelons
+                        que les chevaliers ont aussi le droit de se détendre!
+                    </p>
                     <div class="voir_plus">
                         <a href ="#" class= "voirBtn"> Voir plus </a>
                     </div>
