@@ -14,15 +14,12 @@ html, body{
 h1{
     font-size: 80px;
     text-align: center;
-    margin-top: 150px;
     font-family: Open Sans;
 }
 
 table{
   border-collapse: collapse; /* Colle les bordures du tableau*/
   margin: auto;
-  margin-top: 80px;
-
 }
 
 td{

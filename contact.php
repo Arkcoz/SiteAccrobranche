@@ -12,8 +12,8 @@
     <?php
     include('navigation.php')
     ?>
-    <div style="min-height: 100%">
-        <div class="containerDescriptionPage" style="margin-top: 5%;">
+    <main style="min-height: 100%">
+        <div class="containerDescriptionPage"">
             <h1>Vous n'avez pas trouvé l'information?</h1>
             <h2>A votre écoute pour répondre à vos questions</h2>
             <p class="descriptionPage">Avant de nous écrire, nous vous conseillons de consulter la rubrique Infos-pratiques ainsi que la FAQ. Vos
@@ -62,7 +62,7 @@
                 </div>
             </form>
         </div>
-    </div>
+    </main>
     <?php
     include('footer.php')
     ?>

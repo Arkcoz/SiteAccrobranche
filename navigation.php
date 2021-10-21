@@ -1,46 +1,32 @@
-<div class="navbar-all">
-
-
+<header class="navbar-all">
+    <div class="logoContainer">
+        <a href="index.php">
+            <img src="source/logo.png" alt="logo accueil" style="vertical-align: bottom" id="logoNav">
+            <span class="logoTitle">Woodland</span>
+        </a>
+    </div>
     <nav class="navbar">
-
-
-
-        <ul class="navbar-menu">
-            <a href="parcours.php" class="navbar-link" id="selected_item">
-                <li classe="navbar-item">
+        <ul class="navLinks">
+            <li>
+                <a href="parcours.php" class="navbar-link" id="selected_item">
                     Parcours
-                </li>
-            </a>
-            <a href="reservation.php" class="navbar-link" id="selected_item">
-                <li classe="navbar-item">
-
+                </a>
+            </li>
+            <li>
+                <a href="reservation.php" class="navbar-link" id="selected_item">
                     Réserver
-                </li>
-            </a>
-            <a href="info.php" class="navbar-link" id="selected_item">
-                <li classe="navbar-item">
+                </a>
+            </li>
+            <li>
+                <a href="info.php" class="navbar-link" id="selected_item">
                     Infos-pratiques
-                </li>
-            </a>
-            <a href="contact.php" class="navbar-link" id="selected_item">
-                <li classe="navbar-item">
+                </a>
+            </li>
+            <li>
+                <a href="contact.php" class="navbar-link" id="selected_item">
                     Contact
-                </li>
-            </a>    
+                </a>
+            </li>
         </ul>
     </nav>
-
-    <div class="bulle">
-        <div class="logo-container">
-            <a href="index.php">
-                <div class="logo-image">
-                    <img classe="logo" src="source/logo.png" alt="logo du site">
-                </div>
-                <div class="logo-title">
-                    WoodLand
-                </div>
-            </a>
-        </div>
-    </div>
-
-</div>
+</header>

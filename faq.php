@@ -13,7 +13,7 @@
     include('navigation.php')
     ?>
     <main style="min-height: 100%">
-        <div class="containerDescriptionPage" style="margin-top: 5%;">
+        <div class="containerDescriptionPage">
             <h1>Toutes les réponses à vos questions</h1>
             <h2>Des conseils utiles avant de nous rendre visite</h2>
         </div>

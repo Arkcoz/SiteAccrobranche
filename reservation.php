@@ -52,8 +52,8 @@
     <?php
         include('navigation.php')
     ?>
-    <div style="min-height: 100%">
-        <div class="containerDescriptionPage" style="margin-top: 5%;">
+    <main style="min-height: 100%">
+        <div class="containerDescriptionPage">
             <h1>Vous voulez réserver?</h1>
             <h2>Nous avons hâte de vous retrouver chez nous</h2>
         </div>
@@ -128,7 +128,7 @@
                 <span class="step"></span>
             </div>
         </form>
-    </div>
+    </main>
     <?php
     include('footer.php')
     ?>

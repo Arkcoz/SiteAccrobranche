@@ -29,82 +29,45 @@ li,ul{
     height: 100%;
 }
 
-.navbar {
-    position: fixed;
-    background-color: #40916C;
-    margin-top: 0;
-    width: 100%;
-    z-index: 10;
-}
-
-.navbar-menu{
-    list-style: none;
-    padding: 0;
+header {
     display: flex;
-    flex-direction: row;
+    justify-content: space-between;
     align-items: center;
-    margin-right:0;
-    float: right;
+    padding: 10px 3%;
+    background-color: #40916C;
 }
 
-.navbar .navbar-menu a li{
-    padding : 1.5rem 5rem;
-    margin-right:auto;
-}
-
-.footer .footer-menu a li{
-    padding : 1.5rem 5rem;
-    margin-right:auto;
-}
-
-.navbar .navbar-menu a li:hover{
-    background-color:#74C69D;
-    transition: all 0.3s ease-in-out;  
-}
-
-.footer .footer-menu a li:hover{
-    background-color:#74C69D;
-    transition: all 0.3s ease-in-out;
-}
-
-.navbar-main-title{
-    font-size: 1rem;
+.navLinks li{
+    display: inline-block;
+    padding: 0px 10px;
 }
 
 .navbar-link{
     text-decoration: none;
     font-size: 25px;
     color:white;
-
 }
 
-.logo-image{
-    height: 4rem;
-    width: auto;
-    display: flex;
-    position: fixed;
-    margin-top: 5px;
-    margin-left:15px; 
-    z-index:11;
-    background:none;
+footer li:hover:hover, header li:hover{
+    background-color:#74C69D;
+    transition: all 0.3s ease-in-out;
 }
 
+.logoContainer a{
+    text-decoration: none;
+}
 
-.logo-title{
+header #logoNav{
+    cursor: pointer;
+}
+
+.logoTitle{
     color: white;
     font-size: 35px;
-    margin-top: 15px;
-    margin-left: 45px;
-    display: flex;
-    position: fixed;
-    z-index:12;
     font-family:Fredoka One;
-
+    text-decoration: none;
 }
 
-.navbar-all{
-    display: flex;
-}
 /*
 Description des pages
  */
@@ -234,33 +197,24 @@ form button{
     font-size: 1.2rem;
 }
 
-.footer {
-    position: absolute;
+footer{
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: stretch;
     background-color: #40916C;
-    margin-bottom: 0;
-    width: 100%;
+    padding: 10px 3%;
 }
 
-.footer-menu{
-    list-style: none;
-    padding: 0;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    float: right;
-    bottom: 0;
-
+footer li{
+    display: inline-block;
+    padding: 0px 10px;
 }
 
 .footer-link{
     text-decoration: none;
-    font-size: 20px;
+    font-size: 25px;
     color:white;
-
-}
-
-.footer-all{
-    display: flex;
-    width: 100%;
-    position: absolute;
 }

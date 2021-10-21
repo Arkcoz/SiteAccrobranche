@@ -1,27 +1,21 @@
-<div class="footer-all">
-
-
-    <nav class="footer">
-
-
-
+<footer>
+    <nav class="nav-footer">
         <ul class="footer-menu">
-            <a href="faq.php" class="footer-link" id="selected_item">
                 <li classe="footer-item">
+                    <a href="faq.php" class="footer-link" id="selected_item">
                     FAQ
+                    </a>
                 </li>
-            </a>
-            <a href="mention.php" class="footer-link" id="selected_item">
                 <li classe="footer-item">
-
+                    <a href="mention.php" class="footer-link" id="selected_item">
                     Mentions légales
+                    </a>
                 </li>
-            </a>
-            <a href="politique.php" class="footer-link" id="selected_item">
-                <li classe="footer-item">  
+                <li classe="footer-item">
+                    <a href="politique.php" class="footer-link" id="selected_item">
                     Politique de confidentialité
+                    </a>
                 </li>
-            </a>
         </ul>
     </nav>
-</div>
+</footer>
