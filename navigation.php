@@ -1,4 +1,4 @@
-<header class="navbar-all">
+<div class="navbar-all">
     <div class="logoContainer">
         <a href="index.php">
             <img src="source/logo.png" alt="logo accueil" style="vertical-align: bottom" id="logoNav">
@@ -29,4 +29,4 @@
             </li>
         </ul>
     </nav>
-</header>
+</div>
