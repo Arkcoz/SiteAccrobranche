@@ -6,6 +6,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css" >
     <style>
+        /*Gestion du footer*/
+        body{
+            display: flex;
+            flex-direction: column;
+        }
+
+        footer{
+            flex: none;
+            margin-top: auto;
+        }
         /* Mark input boxes that gets an error on validation: */
         input.invalid {
             background-color: #ffdddd;
@@ -52,7 +62,7 @@
     <?php
         include('navigation.php')
     ?>
-    <main style="min-height: 100%">
+    <main >
         <div class="containerDescriptionPage">
             <h1>Vous voulez réserver?</h1>
             <h2>Nous avons hâte de vous retrouver chez nous</h2>
