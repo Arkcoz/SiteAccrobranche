@@ -88,8 +88,15 @@ header{
 
 .moveBtn{
   font-size: 35px;
+  position : relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: nowrap;
   background: #1B4332;
-  margin: 20px;
+  margin: 3rem 10rem;
+  transition: 1s;
+  overflow: hidden;
   text-decoration: none;
   border-radius: 30px;
   color: white;
@@ -106,7 +113,7 @@ header{
   color: black;
 }
 
-/*
+
 .moveBtn:hover{
   box-shadow: 0 0 0px var(--clr);
 }
@@ -148,7 +155,19 @@ header{
 {
   background: var(--clr);
 }
-*/
+
+.moveBtn span{
+  position: relative;
+  z-index:1;
+  font-size: 35px;
+  color: white;
+  transition: 0.5s;
+}
+
+.moveBtn:hover span{
+  opacity: 1;
+  color: black;
+}
 
 /*Contient toutes les news*/
 .news_wrapper{
