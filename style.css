@@ -12,6 +12,10 @@ html, body {
   background-color: #F4F4F4;
 }
 
+p{
+    text-align: justify;
+}
+
 main {
   padding: 1rem 4rem;
   margin-top: 50px;
@@ -99,6 +103,19 @@ Description des pages
     vertical-align: middle;
 }
 
+/*
+Contenu flex
+ */
+.contenuFlex{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #95D5B2;
+    gap: 10px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
 /*
 Formulaires
  */

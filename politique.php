@@ -7,16 +7,31 @@
   <link rel="stylesheet" href="style.css" >
   <link href='https://fonts.googleapis.com/css?family=Fredoka One' rel='stylesheet'>
   <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet'>
-  <link rel="stylesheet" href="politique.css" >
-  <title>Infos-pratiques</title>
+  <title>Politique de confidentialité</title>
+    <style>
+        /*Gestion du footer*/
+        body{
+            display: flex;
+            flex-direction: column;
+        }
+
+        footer{
+            flex: none;
+            margin-top: auto;
+        }
+    </style>
 </head>
 <body>
   <?php
   include('navigation.php')
   ?>
   <main>
-      <div class="principale">
-        <h2 class="titre">Politique de Confidentialité</h2><br><br>
+      <div class="containerDescriptionPage">
+          <h1>Politique de confidentialité</h1>
+          <h2>Vos données personnelles, c'est notre soucis!</h2>
+      </div>
+      <div class="contenuFlex">
+        <h2>Introduction</h2>
         <p>Cette politique s'applique au site : Woodland.fr </p><br>
         <p>Date de dernière mise à jour : 06/10/2021</p><br>
         <p>Le respect de votre vie privé est de la plus haute importance pour notre équipe.</p>
@@ -28,7 +43,7 @@
         </p>
       </div>
 
-      <div class="principale2">
+      <div class="contenuFlex">
         <h2 class="titre">Collecte et Traitement de Renseignements Personnels</h2>
         <p>
           Les données personnels récupérer sont : Le nom, le prénom, l'adresse mail et le numéro de téléphone.<br>
@@ -46,7 +61,7 @@
         </p>
       </div>
 
-      <div class="souspartie">
+      <div class="contenuFlex">
         <p>Pour toute demande relative à vos données personnelles, nous vous
           invitons à nous contacter à l’adresse suivante: <a href="mailto:mailhelp@helpAccrobranche.fr" class="lien">WoodLand@help.fr</a>
         </p>
