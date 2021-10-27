@@ -38,7 +38,7 @@ include('navigation.php')
             <p>Woodland – 26 rue des templiers, 21666, La Diablerie</p>
             <p>Tel : 03 66 66 66 66</p>
             <p>Contact électronique : Woodland@gmail.com</p>
-            <p>SARL au capital de 37 000,00 € euros</p>
+            <p>SARL au capital de 37 000,00 € euros - RCS Compiègne 666 666 066 – Siret6497812346759 – NAF 6666Z – TVA européenne : FR77666666666</p>
             <br>
             Directeur de Publication
             Arthur Pendragon, Directeur de Woodland

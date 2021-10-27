@@ -49,8 +49,9 @@
           Les données personnels récupérer sont : Le nom, le prénom, l'adresse mail et le numéro de téléphone.<br>
           Ces données peuvent être récupérées lors de la réservation d'une séance d'accrobranche, lorsque vous appuyé sur le bouton "Réservé" du formulaire un fois les informations rentrée.<br>
           Cependant ces information peuvent être récupéré lors d'une demande de contact avec notre équipe dans la page contact. Lors de l'appuie sur le bouton "envoyer" les informations entrée dans le formulaire sont stockées comme le nom, prénom, adresse mail, sujet et le message.<br>
+          Les informations personnelles comme le mot de passe du client et les coordonnées bancaire sont stockées sur des espaces sécurisé. De plus toutes ses données sont chiffrées.
           Les données personnels sont gardé pour un temps de 3 ans depuis le dernier envoie de formulaire.<br>
-          Les données du formulaire de réservation sont traité uniquement par l'équipe du site Woodland.fr dans le but de l'organisation, de la gestion et de la promotion de notre activité. Les données du formulaire de contact sont traité uniquement par l'équipe de Woodland dans le but de réponde au plus vite à votre demande.<br>
+          Les données du formulaire de réservation sont traité uniquement par l'équipe du site Woodland.fr dans le but de l'organisation, de la gestion et de la promotion de notre activité.<br> Les données du formulaire de contact sont traité uniquement par l'équipe de Woodland dans le but de réponde au plus vite à votre demande.<br>
           Vos données ne seront utilisé pour aucun profilage ou prise de décision automatisée.<br>
           Vous pouvez nous demandé de retirer vos données personnels de notre base de données a tout moment.<br>
           Cependant nous ne pourront pas réservé votre créneau d'accrobranche ni répondre à vos questions.
