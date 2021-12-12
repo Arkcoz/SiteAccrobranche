@@ -7,26 +7,29 @@
     </div>
     <nav class="navbar">
         <ul class="navLinks">
-            <li>
-                <a href="parcours.php" class="navbar-link" id="selected_item">
+            <a href="parcours.php" class="navbar-link" id="selected_item">    
+                <li>
                     Parcours
-                </a>
-            </li>
-            <li>
-                <a href="reservation.php" class="navbar-link" id="selected_item">
+                </li>
+            </a>
+            
+            <a href="reservation.php" class="navbar-link" id="selected_item">
+                <li>
                     Réserver
-                </a>
-            </li>
-            <li>
-                <a href="info.php" class="navbar-link" id="selected_item">
+                </li>
+            </a>
+
+            <a href="info.php" class="navbar-link" id="selected_item">
+                <li>
                     Infos-pratiques
-                </a>
-            </li>
-            <li>
-                <a href="contact.php" class="navbar-link" id="selected_item">
+                </li>
+            </a>
+            
+            <a href="contact.php" class="navbar-link" id="selected_item">
+                <li>
                     Contact
-                </a>
-            </li>
+                </li>
+            </a>
         </ul>
     </nav>
 </div>

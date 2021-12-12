@@ -10,14 +10,15 @@ h2{
   color: black;
   font-family: Fredoka One;
   font-size: 48px;
+  margin-top: 25px;
 }
 
 h3{
   color: black;
-  font-family: Fredoka One;
   font-size: 40px;
   text-decoration: underline;
   font-weight: bold;
+  margin-bottom: 10px;
 }
 
 
@@ -31,7 +32,6 @@ header{
 .index{
   margin: 0;
   display: flex;
-  gap: 20px;
   overflow: auto;
   align-items: center;
   flex-direction: column;
@@ -59,7 +59,7 @@ header{
   width: 100%;
 }
 
-.banderol{
+#banderol{
   background-color: #52B788;
   width: 100%;
   text-align: center;
@@ -68,15 +68,6 @@ header{
   padding-bottom: 1.5rem;
   font-size: 28px;
   color: white;
-}
-
-.banderol_text{
-  font-size: 28px;
-  color: white;
-  margin: auto;
-  font-family: Open Sans;
-  vertical-align: middle;
-  margin-top: 0px;
 }
 
 .btn-menu{
@@ -121,7 +112,7 @@ header{
   content :'';
   position: absolute;
   width: 40px;
-  height: 500%;
+  height: 550%;
   background: var(--clr);
   transition: 1s;
   animation: animate 10s linear infinite;
@@ -254,22 +245,31 @@ header{
   border-radius: 20px;
 }
 
-.newsDescription{
+.newsDescription {
   flex: 1;
   display: flex;
   flex-direction: column;
   align-content: space-between;
+  height: 20rem;
+  padding: 0 1rem;
 }
 
 .newsDescription p, .presentationContainer p{
-  font-size: 25px;
+  font-size: 20px;
 }
 
 .button-wrapper{
+  
+  position :relative;
   padding: 1rem 4rem;
   background-color: #1B4332;
   border-radius: 30px;
   align-self: flex-end;
+  right:  0;
+  bottom: 0;
+
+  
+  
 }
 
 .button-wrapper a{

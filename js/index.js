@@ -27,15 +27,15 @@ $(document).ready(function(){
         }
         else {
             $("html, body").animate({
-                scrollTop: $("#news").offset().top
+                scrollTop: $("#banderol").offset().top
             }, 800);
             $("#mylink").addClass("scroll");
         }
     });
 
-    $(".btn[href='#news']").on("click", function(e){
+    $(".btn[href='#banderol']").on("click", function(e){
         $("html, body").animate({
-            scrollTop: $("#news").offset().top
+            scrollTop: $("#banderol").offset().top
         }, 800);
         $("#mylink").addClass("scroll");
     });

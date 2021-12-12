@@ -5,11 +5,12 @@
 }
 
 html, body {
-  font-family: 'Source Sans Pro';
+  
   font-size:14px;
   width : 100%;
   height:100vh;
   background-color: #F4F4F4;
+  font-family: 'Lato', sans-serif;
 }
 
 p{
@@ -33,6 +34,10 @@ li,ul{
     height: 100%;
 }
 
+.navbar{
+    font-family: 'Lato', sans-serif;
+}
+
 .navbar-all {
     display: flex;
     z-index: 9999;
@@ -41,13 +46,12 @@ li,ul{
     width : 100%;
     top: 0;
     align-items: center;
-    padding: 10px 3%;
     background-color: #40916C;
 }
 
 .navLinks li{
     display: inline-block;
-    padding: 0px 10px;
+    padding: 20px;
 }
 
 .navbar-link{
@@ -59,6 +63,10 @@ li,ul{
 footer li:hover:hover, .navLinks li:hover{
     background-color:#74C69D;
     transition: all 0.3s ease-in-out;
+}
+
+.logoContainer{
+    padding-left: 15px;
 }
 
 .logoContainer a{
@@ -226,16 +234,20 @@ footer{
     justify-content: flex-end;
     align-items: stretch;
     background-color: #40916C;
-    padding: 10px 3%;
+    margin-top: 2rem;
 }
 
 footer li{
     display: inline-block;
-    padding: 0px 10px;
+    padding: 20px;
 }
 
 .footer-link{
     text-decoration: none;
     font-size: 25px;
     color:white;
+}
+
+h1{
+    margin-top: 20px;
 }

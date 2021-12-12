@@ -5,56 +5,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css" >
-    <style>
-        /*Gestion du footer*/
-        body{
-            display: flex;
-            flex-direction: column;
-        }
-
-        footer{
-            flex: none;
-            margin-top: auto;
-        }
-        /* Mark input boxes that gets an error on validation: */
-        input.invalid {
-            background-color: #ffdddd;
-        }
-
-        /* Hide all steps by default: */
-        .tab {
-            display: none;
-        }
-
-        button:hover {
-            opacity: 0.8;
-        }
-
-        #prevBtn {
-            background-color: #bbbbbb;
-        }
-
-        /* Make circles that indicate the steps of the form: */
-        .step {
-            height: 15px;
-            width: 15px;
-            margin: 0 2px;
-            background-color: #bbbbbb;
-            border: none;
-            border-radius: 50%;
-            display: inline-block;
-            opacity: 0.5;
-        }
-
-        .step.active {
-            background-color: #40916C;
-        }
-
-        /* Mark the steps that are finished and valid: */
-        .step.finish {
-            background-color: black;
-        }
-    </style>
     <link href='https://fonts.googleapis.com/css?family=Fredoka One' rel='stylesheet'>
     <title>Réservation</title>
 </head>

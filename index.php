@@ -21,8 +21,8 @@
                 <a href ="reservation.php" style="--clr : #5ad6a2;--i:0;" class= "moveBtn"> <span> Réserver </span> </a>
                 <a href ="parcours.php" style="--clr : #5ad6a2;--i:0;" class= "moveBtn"> <span> Nos parcours </span> </a>
             </div>
-            <a id="mylink" href="#news"><img src="source/fleche_bas.png" alt="fleche" class="fleche"></a>
-            <div class="banderol">
+            <a id="mylink" href="#banderol"><img src="source/fleche_bas.png" alt="fleche" class="fleche"></a>
+            <div id="banderol">
                 Rejoignez nous jeunes héros ! Nous vous attendons pour la quête du Saint Graal !
             </div>
         </div>
@@ -70,6 +70,8 @@
             <div class="imgNewsContainer">
                 <img class="news_image" src="source/passe_sanitaire.png" alt="Photo du passe sanitaire">
             </div>
+
+            
             <div class="newsDescription">
                 <div class="textNews">
                     <h3>Pass sanitaire obligatoire</h3>

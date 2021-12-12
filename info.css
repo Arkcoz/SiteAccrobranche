@@ -5,7 +5,6 @@ html, body{
   background-repeat: no-repeat;
   background-size: cover;
 
-  font-family: 'Source Sans Pro';
   width: unset;
   height: unset;
   background-color: unset;
@@ -32,13 +31,13 @@ td{
   background-color: #F4F4F4;
 }
 
-                                                      /* STYLE ONGLET NAV_BAR */
+  /* STYLE ONGLET NAV_BAR */
 
 #Selected_Info{
   background-color:#74C69D;
 }
 
-                                                      /* STYLE TABLEAU TARIF */
+  /* STYLE TABLEAU TARIF */
 
 .TeteTab{
   border: 2px solid #58cece;
@@ -63,7 +62,7 @@ td{
 }
 
 
-                                                    /* STYLE TABLEAU HORAIRES */
+/* STYLE TABLEAU HORAIRES */
 
 .HTeteTab{
   border: 2px solid #58cece;
